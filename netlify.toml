@@ -2,14 +2,14 @@
   command = "npm run build"
   publish = "_site"
 
-[[redirects]]
-  from = "https://pack11ty.netlify.com"
-  to = "https://pack11ty.dev"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "https://precious-prana-2026.netlify.com"
+#   to = "https://precious-prana.com"
+#   status = 301
+#   force = true
 
-[[redirects]]
-  from = "https://pack11ty.netlify.app"
-  to = "https://pack11ty.dev"
-  status = 301
-  force = true
+# [[redirects]]
+#   from = "https://precious-prana-2026.netlify.app"
+#   to = "https://precious-prana.com"
+#   status = 301
+#   force = true
