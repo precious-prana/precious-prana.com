@@ -1,27 +1,21 @@
 {
-	"name": "pack11ty",
-	"version": "2.2.0",
-	"title": "Pack11ty",
-	"description": "an heavily opinionated Eleventy template project",
-	"homepage": "https://pack11ty.dev/",
+	"name": "precious-prana.com",
+	"version": "2.0.0",
+	"title": "Precious Prana",
+	"description": "Faire pétiller",
+	"homepage": "https://precious-prana.com/",
 	"author": {
 		"name": "Nicolas Hoizey",
 		"url": "https://nicolas-hoizey.com/",
 		"email": "nicolas@hoizey.com"
 	},
-	"keywords": [
-		"eleventy",
-		"starter",
-		"template",
-		"eleventy-website",
-		"eleventy-sample"
-	],
+	"keywords": ["eleventy", "eleventy-website"],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/nhoizey/pack11ty.git"
+		"url": "git+https://github.com/precious-prana/precious-prana.com.git"
 	},
 	"bugs": {
-		"url": "https://github.com/nhoizey/pack11ty/issues"
+		"url": "https://github.com/precious-prana/precious-prana.com/issues"
 	},
 	"license": "MIT",
 	"type": "module",
