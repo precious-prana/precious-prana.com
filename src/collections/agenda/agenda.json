@@ -1,0 +1,4 @@
+{
+	"tags": "agenda",
+	"permalink": "/agenda/{{ page.date | dayPath }}/{{ title | slugify }}/"
+}

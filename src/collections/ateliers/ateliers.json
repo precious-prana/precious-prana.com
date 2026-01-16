@@ -1,0 +1,4 @@
+{
+	"tags": "ateliers",
+	"permalink": "/ateliers/{{ title | slugify }}/"
+}

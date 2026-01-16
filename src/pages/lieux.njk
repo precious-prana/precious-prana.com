@@ -1,0 +1,22 @@
+---
+title: Lieux
+---
+
+{% extends "../_layouts/base.njk" %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+
+<h1>Lieux</h1>
+
+<ul>
+  {%- for lieu in collections.lieux -%}
+    <li>
+      <a href="{{ lieu.url }}">{{ lieu.data.title }}</a>
+    </li>
+  {%- endfor -%}
+</ul>
+{% endblock %}

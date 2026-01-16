@@ -1,0 +1,4 @@
+{
+	"tags": "blog",
+	"permalink": "/blog/{{ page.date | dayPath }}/{{ slug or title | slugify }}/"
+}

@@ -1,0 +1,22 @@
+---
+title: Interviews des intervenantes
+---
+
+{% extends "../_layouts/base.njk" %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+
+<h1>Interviews des intervenantes</h1>
+
+<ul>
+  {%- for interview in collections.interviews -%}
+    <li>
+      <a href="{{ interview.url }}">{{ interview.data.title }}</a>
+    </li>
+  {%- endfor -%}
+</ul>
+{% endblock %}

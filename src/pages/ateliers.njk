@@ -1,0 +1,24 @@
+---
+title: Ateliers
+tags:
+  - navigation
+navorder: 2
+---
+
+{% extends "../_layouts/base.njk" %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+
+<h1>Ateliers</h1>
+
+{%- for atelier in collections.ateliers -%}
+  <h2>{{ atelier.data.title }}</h2>
+  {{ atelier.templateContent | excerpt | safe }}
+  <p>En savoir plus sur l'<a href="{{ atelier.url }}">atelier {{ atelier.data.title }}</a>
+  </p>
+{%- endfor -%}
+{% endblock %}

@@ -1,0 +1,24 @@
+---
+title: Blog
+tags:
+  - navigation
+navorder: 4
+---
+
+{% extends "../_layouts/base.njk" %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+
+<h1>Blog</h1>
+
+{%- for billet in collections.blog | reverse -%}
+  <h3><a href="{{ billet.url }}">{{ billet.data.title }}</a></h3>
+  {% set date = billet.date %}
+  {% include "billet-meta.njk" %}
+  {{ billet.templateContent | excerpt | safe }}
+{%- endfor -%}
+{% endblock %}

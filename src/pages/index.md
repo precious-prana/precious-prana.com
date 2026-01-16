@@ -1,57 +1,41 @@
 ---
-title: Welcome to Pack11ty!
-nav:
-  order: 1
-  title: Home
+title: Accueil
+subtitle: La communauté pour faire pétiller l’énergie vitale des mères actives
+tags:
+- navigation
+navorder: 1
+layout: homepage.njk
+
 ---
+<p class="intro">
+Precious Prana est la communauté qui vous accompagne dans la gestion de <strong>votre équilibre entre vie professionnelle et vie personnelle</strong>. Notre objectif est de vous faire <strong>pétiller</strong> et de vous donner l'énergie pour être engagé(e)s dans votre vie personnelle et votre travail.
+</p>
 
-[Pack11ty]{.pack11ty} is an heavily opinionated [Eleventy](https://www.11ty.dev/) template project created by [Nicolas Hoizey](https://nicolas-hoizey.com/).
+<img src="/images/illustrations/woman-blowing-glitters-on-her-hands.jpg" alt="Woman blowing glitters on her hands, © Oleg Magni" class="onehalf" />
 
-Feel free to use it, enhance it, and share your ideas/comments with [issues](https://github.com/nhoizey/pack11ty/issues/new/choose), or (even better) [pull requests](https://github.com/nhoizey/pack11ty/compare)!
+Nous proposons des **ateliers et workshops**, suivant des thématiques, qui allient lâcher prise, création et action, et qui sont toujours accompagnés par un moment de partage. Ces ateliers vous apportent détente, prise de recul, ouverture d'esprit et dialogue, pour mieux construire votre équilibre, votre activité ou votre projet.
 
-If you want to try it and you're in a hurry, try one of these quick options to run [Pack11ty]{.pack11ty} for free:
+Pour voir les prochains ateliers ouverts au public, allez sur <a href="/agenda/">notre agenda</a> ou inscrivez-vous à <a href="/newsletter/">notre newsletter</a>.
 
-[Deploy to **Netlify**](https://app.netlify.com/start/deploy?repository=https://github.com/nhoizey/pack11ty&stack=cms){.button}{.netlify} [Deploy to **StackBlitz**](https://stackblitz.com/github/nhoizey/pack11ty){.button}{.stackblitz}
+Ces ateliers s’adressent aux salariés en **entreprise**, mais aussi aux **entrepreneurs** et aux **particuliers**. C’est votre moment de repos dans un environnement réceptif, pour créer des échanges et préparer vos idées et envies à faire germer demain, ressentir la joie et vous mettre en action.
 
-There are multiple [options for installation/deployment](/documentation/installation/).
+Les séances de Yoga du Rire en ligne continuent pendant le confinement. Elles ont démontré leur éfficacité en lâcher pris et détente mais aussi en éfficacité quant à la cohésion d'équipe.  Voici quelques témoignages.
 
-# Key features
+> _"Je me suis sentie immédiatement très détendue et j'ai observé une très grande énergie quelques heures après."_
+>
+> _"Bravo pour la belle énergie, elle est contagieuse et merci. J'ai quelques douleurs d’hernie cervicale et de tendinite au bras qui m'empêchent de dormir longtemps, je viens de faire une bonne sieste. Merci."_
+>
+> _"J'étais pas mal stressée et j'ai senti la relaxation arriver pendant la séance."_
 
-## A plugin
+Envie de tenter ? Contactez-moi directement [par mail](mailto:contact@precious-prana.com) ou voyer l'agenda pour les dates à venir.
 
-The [Pack11ty]{.pack11ty} plugin ([`eleventy-plugin-pack11ty`](https://github.com/nhoizey/eleventy-plugin-pack11ty)) provides many features out of the box, which you can enjoy on any Eleventy project:
+Découvrez [tous les types d'ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](/files/Precious-Prana-flyer-entreprise.pdf)
 
-- **Collections** built automatically from root folders, with pagination for yearly and monthly archives
-- **Navigation** configuration
-- **JavaScript and Sass/CSS assets** optimized for performance
-  - inline critical JavaScript and CSS
-  - external and asynchronous additional JavaScript and CSS, with hashes for cache busting
-  - JavaScript, CSS and HTML built separately
-  - Dev mode with live reload
-- **Responsive images** built from simple Markdown and presets
-- **Enhanced Markdown** thanks to an extensive set of Markdown-it plugins for better contribution: footnotes, attributes, headings anchors, abbreviations, containers
-- A set of Eleventy **filters** and shortcodes are provided, including an enhanced `slugify`
-- A simple and responsible way to share YouTube **videos**
+![](/images/lake-pixabay-michael_kleinsasser.jpg)
 
-## A template repository
+Nous avons également **une offre dédiée spécialement aux femmes actives**. Pour cette communauté, des rencontres ont actuellement lieu dans l’Essonne, Paris suivra sous peu. Au-delà des ateliers et leur cadre, ces femmes bénéficient des astuces qui leurs correspondent, pour retrouver l’énergie et être moteur.
 
-Additionnaly, the [Pack11ty]{.pack11ty} template repository ([`pack11ty`](https://github.com/nhoizey/pack11ty)) helps starting a new project from scratch with even more nice features:
+Pour voir les prochains ateliers ouverts au public, allez sur <a href="/agenda/">notre agenda</a> ou inscrivez-vous à <a href="/newsletter/">notre newsletter</a>.
 
-- **Responsive Layout** without any Media Query, thanks to CSS Flexible Box Layout (Flexbox) and layouts from Every Layout
-- A default configuration for responsive images
-- **PWA** for performance, installation and offline support
-  - Service Worker with pre-caching of UI assets, auto caching of visited pages and offline fallback
-  - Manifest for PWA installation
-- **Indieweb**
-  - Support for receiving Webmentions
-  - Atom feed for all collections combined
-- More default containers: `success`, `warning`, `error`
-- Etc.
-
-# Would you like to know more?
-
-Read [the full documentation](/documentation/)!
-
-# Do you have different needs?
-
-No problem, there are [many other Eleventy starters available](https://www.11ty.dev/docs/starter/).
+<p class="intro">Vous êtes plus dynamique, plus confiant(e) et vos relations le sont aussi.
+<p class="intro">Pétillez et soyez acteur/actrice de votre vie.
