@@ -12,7 +12,7 @@ const runBeforeHook = (image, document, documentUrl) => {
 		// TODO: do this automatically in eleventy-plugin-images-responsiver
 		if (imageSrc[0] === "/") {
 			// TODO: deal with this in markdown-it-image-size
-			const imageDimensions = imageSize(`src${imageSrc}`);
+			const imageDimensions = imageSize(`src/static/${imageSrc}`);
 			image.setAttribute("width", imageDimensions.width);
 			image.setAttribute("height", imageDimensions.height);
 			imageUrl = pkg.homepage.replace(/\/$/, "") + imageSrc;
@@ -78,4 +78,12 @@ export const responsiverConfig = {
 		figure: "never",
 		classes: ["logo"],
 	},
+	poster: {
+		fallbackWidth: 200,
+		minWidth: 100,
+		maxWidth: 400,
+		zoom: true,
+		sizes: '(min-width: 66rem) 20rem, 30vw',
+		classes: ['poster', 'right']
+	}
 };
