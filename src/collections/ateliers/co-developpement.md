@@ -1,6 +1,6 @@
 ---
 title: 'Co-développement '
-ordre: 7
+order: 7
 
 ---
 Le co-développement réunit un groupe de personnes - des pairs - qui cherchent à améliorer leur propre pratique professionnelle avec une attitude d’apprentissage, mais également à contribuer à l’amélioration de celle des autres, par l’attitude pédagogique. Le groupe cultive ainsi, ensemble, une « intelligence collective » et crée une véritable communauté d’apprentissage.
@@ -21,7 +21,7 @@ L’apprentissage est essentiel dans le Codéveloppement. Elle se traduit d’un
 
 ### **A qui profite le Codéveloppement ?**
 
-Un groupe de Codéveloppement se compose de préférence de 5 à 8 personnes. Le groupe peut être constitué de leaders, de chefs de projet, de managers ou autres salariés. Le groupe peut également être constitué d’entrepreneurs, voir d'un groupe de parents (par exemple pour un [groupe de Codéveloppement pour les parents d'adolescents]()). 
+Un groupe de Codéveloppement se compose de préférence de 5 à 8 personnes. Le groupe peut être constitué de leaders, de chefs de projet, de managers ou autres salariés. Le groupe peut également être constitué d’entrepreneurs, voir d'un groupe de parents (par exemple pour un [groupe de Codéveloppement pour les parents d'adolescents]()).
 
 La diversité du groupe est un élément important pour assurer la richesse de l’émergence des idées, des témoignages. En intra-entreprise, il est conseillé de mélanger des équipes pour permettre des angles de vue variés, stimulant ainsi l’intelligence collective et l’apprentissage. En inter-entreprise, ce métissage se crée plus naturellement et est apprécié.
 

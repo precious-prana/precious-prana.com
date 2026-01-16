@@ -1,6 +1,6 @@
 ---
 title: Savourer les bons moments
-ordre: 3
+order: 3
 
 ---
 Savourer c'est bien plus que de vivre le moment présent. c'est aussi faire perdurer les moments, les encrer et les intensifier. Et c'est très bénéfique pour notre système immunitaire.

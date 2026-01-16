@@ -1,6 +1,6 @@
 ---
 title: Shiatsu Auto-massage - Do-In
-ordre: 8
+order: 8
 
 ---
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relationnel, et on peut permettre à son corps de trouver des manières de s’autoguérir.
@@ -11,7 +11,7 @@ Sa soif de connaissance du corps humain et son désir de soulager ses patients l
 
 > L'automassage est une technique qui permet de faire circuler l'énergie vitale dans le corps, ce qui stimule les défenses de l'organisme, permet de relancer la vitalité dans les organes, d'assouplir le corps et de rester en bonne santé en harmonisant corps et esprit.
 
-**Les ateliers sont à chaque fois tournés autour d'une thématique**. En généal il s'agit d'une thématique des saisons, car le DO-In se base sur la médécine traditionnelle chinoise et l'effet des saisons sur notre corps. Les participant(e)s viennent habillé(e)s dans une tenue confortable pour pouvoir faire les différents exercices. À la suite de l’atelier, toutes les participant(e)s orepartent avec un résumé des exercices et points d’attention afin de pouvoir les reproduire chez eux. Les ateliers étaient initialement ouverts uniquement pour les femmes, mais sont maintenant également accéssibles aux hommes pour pouvoir permettre d'élargir les bienfaits à tout le monde. 
+**Les ateliers sont à chaque fois tournés autour d'une thématique**. En généal il s'agit d'une thématique des saisons, car le DO-In se base sur la médécine traditionnelle chinoise et l'effet des saisons sur notre corps. Les participant(e)s viennent habillé(e)s dans une tenue confortable pour pouvoir faire les différents exercices. À la suite de l’atelier, toutes les participant(e)s orepartent avec un résumé des exercices et points d’attention afin de pouvoir les reproduire chez eux. Les ateliers étaient initialement ouverts uniquement pour les femmes, mais sont maintenant également accéssibles aux hommes pour pouvoir permettre d'élargir les bienfaits à tout le monde.
 
 ::: note
 

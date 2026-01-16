@@ -1,6 +1,6 @@
 ---
 title: Accompagnement au changement - Transformation en entreprises
-ordre: 70
+order: 70
 
 ---
 Accompagner les équipes, le cadre dirigeant et les acteurs de manière efficae dans un processus de changement et transformation, nécessite une vrai démarche qui englobe l'analyse d'impact, la communication, la formation et la coordination et suivi. Toufefois, cela ne suffit souvent pas.
@@ -17,7 +17,7 @@ Pour en saovir plus, contactez-moi directement pour échanger sur votre besoin e
 
 J'ai près de 20 ans d'expérience en gestion des projets internationaux et en accompagnement au changement dans des contextes internationales et multiculturelles. Formé par ESCP-EAP (Gestion des Projets Internationaux) et l'ESSEC (Réussir le Changement), j'ai complété mes connaissances avec des nouvelles méthodes comme le Co-développement, le Design Thinking, Lean et l'utilisation des outils à distance.
 
-Mon accompagnement peut se faire en français, anglais et néerlandais. Je suis totalement à l'aise dans un environnement de transformation international. 
+Mon accompagnement peut se faire en français, anglais et néerlandais. Je suis totalement à l'aise dans un environnement de transformation international.
 
 :::
 
