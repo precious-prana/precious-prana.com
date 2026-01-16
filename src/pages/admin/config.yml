@@ -217,8 +217,6 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     create: true
-    media_folder: ''
-    public_folder: ''
     fields:
       - label: 'Titre'
         name: 'title'
