@@ -50,8 +50,7 @@
 
 {% if lieu %}
   {% for lieuItem in collections.lieux %}
-    {% set lieuPath = lieuItem.inputPath | replace('./', '') %}
-    {% if lieuPath == lieu %}
+    {% if lieuItem.fileSlug == lieu %}
       <h2>Localisation de l'événement</h2>
       <div class="vcard">
       <p class="fn">
