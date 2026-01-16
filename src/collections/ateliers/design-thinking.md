@@ -1,7 +1,6 @@
 ---
 title: Design Thinking
 draft: true
-
 ---
 Le design thinking est une approche d’innovation centrée résolument sur l’utilisateur et son besoin. Par un processus d’idéation en itération, alliant l’humain, l’économie et la technologie, l’objectif de l’équipe – transverse - est de trouver l’expérience désirée de l’utilisateur. Des leviers culturels comme la collaboration, la responsabilisation et le droit à l’erreur permettent tout au long de renforcer l’impact du processus. Un vrai état d’esprit d’engagement se crée grâce à l’implication de l’équipe et sa proximité avec l’utilisateur.
 

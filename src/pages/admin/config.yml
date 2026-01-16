@@ -34,6 +34,11 @@ collections:
         name: 'title'
         widget: 'string'
         tagname: 'h1'
+      - label: 'Brouillon'
+        name: 'draft'
+        widget: 'boolean'
+        default: true
+        hint: 'Ordre d‘affichage dans la liste des ateliers'
       - label: 'Ordre'
         name: 'order'
         widget: 'number'
