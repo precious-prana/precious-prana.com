@@ -12,9 +12,11 @@ ici très prochainement, ou abonnez-vous à
 <div class="next">
 {% set evenement = events | first %}
 {% if evenement.data.poster %}
+  {# TODO: restaurer un lien de zoom sur les posters #}
   <img
     src="{{ evenement.data.poster }}"
     alt="{{ evenement.data.title }} le {{ evenement.date | readableDate }}, par Precious Prana"
+    title="&#128269;&nbsp;[zoom]({{ evenement.data.poster }})"
     class="poster" />
 {% endif %}
 <h2>Prochain événement <strong>le {{ evenement.date | readableDate }}</strong></h2>
