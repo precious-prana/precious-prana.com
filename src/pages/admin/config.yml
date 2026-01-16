@@ -51,6 +51,7 @@ collections:
         format: 'YYYY-MM-DD'
         date_format: 'YYYY-MM-DD'
         picker_utc: true
+        default: '{{now}}'
       - label: 'Brouillon'
         name: 'draft'
         widget: 'boolean'
