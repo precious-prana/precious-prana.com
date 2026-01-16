@@ -59,6 +59,7 @@ collections:
         name: 'form_url'
         widget: 'string'
         default: ''
+        required: false
       - label: 'Afficher sur la page d‘accueil'
         name: 'show_homepage'
         widget: 'boolean'
@@ -68,10 +69,12 @@ collections:
         name: 'poster'
         widget: 'image'
         media_folder: 'media'
+        required: false
       - label: 'Moodboard'
         name: 'moodboard'
         widget: 'image'
         media_folder: 'media'
+        required: false
       - label: 'Ateliers'
         name: 'ateliers'
         widget: 'relation'
