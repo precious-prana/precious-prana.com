@@ -18,7 +18,7 @@ export default async function (eleventyConfig) {
 		minifyHtml: isProd,
 		markdown: {
 			firstLevel: 2,
-			containers: ["success", "warning", "error"],
+			containers: ["success", "warning", "error", "note"],
 		},
 	};
 
