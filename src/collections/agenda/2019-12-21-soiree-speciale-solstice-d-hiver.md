@@ -1,6 +1,6 @@
 ---
 title: Soirée spéciale « Solstice d'hiver »
-poster: "/images/evenements/2019-12-21-solstice-hiver.png"
+poster: "../media/2019-12-21-solstice-hiver.png"
 form_url: https://www.weezevent.com/atelier-solstice-d-hiver-2
 show_homepage: true
 lieu: chez-la-bourgeoise-d-en-face
@@ -10,4 +10,4 @@ Le solstice d’hiver est un moment clef dans l’année et se célèbre depuis 
 
 Lors de l’atelier, nous célébrons le passage de l’ombre à la lumière. Une phase d’introspection pour l’apprentissage de l’année passée et un moment de renaissance pour laisser entrer la lumière et planter nos graines pour l’année à venir. Des poésies et symboliques nous accompagneront dans ce travail, qui est à la fois individuel et collectif.
 
-![Hands covering a candle](/images/illustrations/hands-covering-a-candle-janwardenbach.jpg)
+![Hands covering a candle](../media/hands-covering-a-candle-janwardenbach.jpg)

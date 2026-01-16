@@ -34,4 +34,4 @@ Nous doutons trop de notre potentiel. Cet atelier m’a appris par des actes sim
 
 L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 
-![](/images/illustrations/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)
+![](../media/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)

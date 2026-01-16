@@ -5,7 +5,7 @@ title: 'Ateliers Bain de Gong et Yoga du Rire à Montgeron'
 ateliers:
 - bain-de-gong
 - yoga-du-rire
-poster: "/images/evenements/2023-06-03-bain-de-gong-et-yoga-du-rire.jpg"
+poster: "../media/2023-06-03-bain-de-gong-et-yoga-du-rire.jpg"
 moodboard: ''
 
 ---

@@ -32,7 +32,7 @@ Envie de tenter ? Contactez-moi directement [par mail](mailto:contact@precious-p
 
 Découvrez [tous les types d'ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](/files/Precious-Prana-flyer-entreprise.pdf)
 
-![](/media/lake-pixabay-michael_kleinsasser.jpg)
+![](../media/lake-pixabay-michael_kleinsasser.jpg)
 
 Nous avons également **une offre dédiée spécialement aux femmes actives**. Pour cette communauté, des rencontres ont actuellement lieu dans l’Essonne, Paris suivra sous peu. Au-delà des ateliers et leur cadre, ces femmes bénéficient des astuces qui leurs correspondent, pour retrouver l’énergie et être moteur.
 

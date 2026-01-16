@@ -15,4 +15,4 @@ Lors de l’atelier, nous célébrons le passage de l’ombre à la lumière. Un
 
 C’est un moment fort en symbolique et de retrouvailles avec ce qu’on aime et qui facilite la fin de cette année si particulière.
 
-![Hands covering a candle](/images/illustrations/hands-covering-a-candle-janwardenbach.jpg)
+![Hands covering a candle](../media/hands-covering-a-candle-janwardenbach.jpg)

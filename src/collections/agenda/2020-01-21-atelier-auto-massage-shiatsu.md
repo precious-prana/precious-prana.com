@@ -1,6 +1,6 @@
 ---
 title: Atelier auto-massage shiatsu
-poster: "/images/evenements/2020-01-21-atelier-auto-massage-shiatsu-precious-prana.png"
+poster: "../media/2020-01-21-atelier-auto-massage-shiatsu-precious-prana.png"
 form_url: https://www.weezevent.com/precious-prana-auto-massage-shiatsu-do-in
 show_homepage: true
 lieu: espace-evolution
@@ -31,4 +31,4 @@ Rendez-vous le **mardi 21 janvier 2020**.
 
 Voyez [le moodboard et les retours des participantes](/evenements/2019/02/19/atelier-auto-massage-shiatsu/#le-moodboard-et-les-retours-des-participantes) d'un précédent atelier d'auto-massage shiatsu.
 
-![](/images/illustrations/canva-brown-house-pixabay.jpg)
+![](../media/canva-brown-house-pixabay.jpg)
