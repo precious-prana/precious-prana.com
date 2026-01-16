@@ -12,7 +12,7 @@ layout: homepage.njk
 Precious Prana est la communauté qui vous accompagne dans la gestion de <strong>votre équilibre entre vie professionnelle et vie personnelle</strong>. Notre objectif est de vous faire <strong>pétiller</strong> et de vous donner l'énergie pour être engagé(e)s dans votre vie personnelle et votre travail.
 </p>
 
-![Woman blowing glitters on her hands, © Oleg Magni](/media/woman-blowing-glitters-on-her-hands.jpg){.onehalf}
+![Woman blowing glitters on her hands, © Oleg Magni](../media/woman-blowing-glitters-on-her-hands.jpg){.onehalf}
 
 Nous proposons des **ateliers et workshops**, suivant des thématiques, qui allient lâcher prise, création et action, et qui sont toujours accompagnés par un moment de partage. Ces ateliers vous apportent détente, prise de recul, ouverture d'esprit et dialogue, pour mieux construire votre équilibre, votre activité ou votre projet.
 

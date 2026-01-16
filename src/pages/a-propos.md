@@ -42,4 +42,4 @@ Ses expériences professionnelles et personnelles l’ont motivée à mettre l�
 >
 > C'est pour cela que je partage mes compétences, ainsi que mes expériences dans l'accompagnement des salariés et des individus. Dans les turbulances des changements, restez acteurs et actrices de votre vie. Pétillez.
 
-![](/media/woman-blowing-glitters-on-her-hands.jpg)
+![](../media/woman-blowing-glitters-on-her-hands.jpg)
