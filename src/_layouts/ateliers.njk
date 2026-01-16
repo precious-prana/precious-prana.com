@@ -1,0 +1,43 @@
+{% extends "./base.njk" %}
+
+{# #######################################################################
+# Opengraph image block
+####################################################################### #}
+
+{% block opengraphImage %}
+  <meta property="og:image" content="{% ogImage title, "Un atelier Precious Prana" %}" />
+{% endblock %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+<h1>{{ title }}</h1>
+
+<div class="content">
+{{ content | safe }}
+</div>
+
+{% set atelierPath = page.inputPath | replace('./', '') %}
+{% set nbEvenements = 0 %}
+{%- for evenement in collections.agenda | reverse -%}
+  {% if evenement.data.ateliers %}
+    {% if atelierPath in evenement.data.ateliers %}
+      {% if nbEvenements == 0 %}
+        <h2>Agenda</h2>
+      {% endif %}
+      {% set nbEvenements = nbEvenements + 1 %}
+      <h3>
+        <a href="{{ evenement.url }}">{{ evenement.data.title }}</a>
+        {% if evenement.date | future %}
+          <span class="hint">prochainement !</span>
+        {% endif %}
+      </h3>
+      {% set date = evenement.date %}
+      {% set lieu = evenement.data.lieu %}
+      {% include "evenement-meta.njk" %}
+    {% endif %}
+  {% endif %}
+{%- endfor -%}
+{% endblock %}

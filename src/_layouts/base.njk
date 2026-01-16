@@ -1,48 +1,82 @@
-<!DOCTYPE html>
-<html lang="{{ lang }}">
+<!doctype html>
+<html lang="fr">
   <head>
-    {% include "head.njk" %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% include "css.njk" %}
+    {% include "js.njk" %}
+
+    {# Google Analytics #}
+    <script>
+      window.ga = function () {
+        ga
+          .q
+          .push(arguments)
+      };
+      ga.q = [];
+      ga.l = + new Date;
+      ga('create', 'UA-127782-6', 'auto');
+      ga('set', 'transport', 'beacon');
+      ga('set', 'anonymizeIp', true);
+      ga('send', 'pageview')
+    </script>
+    <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+    {% block title %}
+    <title>{{ title }} — {{ site.name }}</title>
+    <meta property="og:title" content="{{ title }} — {{ site.name }}" />
+    {% endblock %}
+
+    <link rel="canonical" href="https://precious-prana.com{{ page.url }}" />
+    <meta property="og:url" content="https://precious-prana.com{{ page.url }}" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{ site.name }}" />
+    <meta name="description" content="Faire pétiller" />
+    <meta property="og:description" content="Faire pétiller" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    {% block opengraphImage %}
+    <meta property="og:image" content="{% ogImage title %}" />
+    {% endblock %}
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:creator" content="@preciousprana" />
+    <meta name="twitter:site" content="@preciousprana" />
+
+    <link rel="icon" type="image/png" href="/images/favicon-128.png" />
   </head>
+  <body
+    data-img-src="{{ page.inputPath | dirname }}/"
+    data-img-dist="{{ page.outputPath | dirname }}/">
+    <header>
+      <div class="container">
+        {%- if title != 'Accueil' %}
+          <p class="logo">{% include "logo.njk" %}</p>
+        {%- else -%}
+          <h1 class="logo">{% include "logo.njk" %}</h1>
+        {% endif %}
+      </div>
+    </header>
+    {% include "navigation.njk" %}
+    <main>
+      <div class="container">
+        {% block content %}
+          {{ content | safe }}
+        {% endblock %}
 
-  <body>
-    <div class="page">
-      {#
-  Use Every Layout's sidebar layout:
-  https://absolutely.every-layout.dev/layouts/sidebar/
-  #}
-      <div class="with-sidebar">
-        <div>
-          <div class="sidebar">
-
-            <header role="banner" class="cluster">
-              <div>
-                <div class="sitelogo-parent">
-                  {% if page.url == '/' %}
-                    <h1 class="sitelogo">{{ pkg.title }}</h1>
-                  {% else %}
-                    <p class="sitelogo">
-                      <a href="/">{{ pkg.title }}</a>
-                    </p>
-                  {% endif %}
-                </div>
-                <div>
-                  {% include "components/navigation.njk" %}
-                </div>
-              </div>
-            </header>
-
-          </div>
-          <div class="not-sidebar">
-            <main role="main">
-              {% block content %}
-                {{ content | safe }}
-              {% endblock %}
-            </main>
-          </div>
+        <div class="flyer">
+          <a href="/files/flyer-2020-particuliers-et-entreprise.pdf">
+            <p>Téléchargez<br />notre flyer :</p>
+            <img src="/files/flyer-2020-particuliers-et-entreprise.jpg" alt="couverture du flyer Precious Prana" width="120" height="169" />
+          </a>
         </div>
       </div>
-      {% include "components/footer.njk" %}
     </div>
-  </body>
-
+  </main>
+  {% include "footer.njk" %}
+  {% include "sprite.njk" %}
+</body>
 </html>

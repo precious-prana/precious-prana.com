@@ -1,0 +1,55 @@
+{% if events.length == 0 %}
+
+<p>
+Il n'y a pour l'instant <strong>aucun événement programmé</strong>. Revenez
+ici très prochainement, ou abonnez-vous à
+<a href="/newsletter/">notre newsletter</a> pour ne pas rater nos prochains
+événements.
+</p>
+
+{% else %}
+
+<div class="next">
+{% set evenement = events | first %}
+{% if evenement.data.poster %}
+  <img
+    src="{{ evenement.data.poster }}"
+    alt="{{ evenement.data.title }} le {{ evenement.date | readableDate }}, par Precious Prana"
+    class="poster" />
+{% endif %}
+<h2>Prochain événement <strong>le {{ evenement.date | readableDate }}</strong></h2>
+<h3><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></h3>
+{% set date = evenement.date %}
+{% set lieu = evenement.data.lieu %}
+{% include "evenement-meta.njk" %}
+{{ evenement.templateContent | excerpt | safe }}
+{% if evenement.data.form_url and evenement.date | future %}
+  <p class="cta"><a href="{{ evenement.data.form_url }}">Inscrivez-vous</a></p>
+{% endif %}
+</div>
+
+{% if events.length > 1 %}
+
+{% if events.length > 2 %}
+  <h2>Autres événements à venir</h2>
+{% else %}
+  <h2>Autre événement à venir</h2>
+{% endif %}
+
+<dl>
+{%- for evenement in events -%}
+
+{%- if not loop.first -%}
+  <h3><a href="{{ evenement.url }}">{{ evenement.data.title }}</a></h3>
+  {% set date = evenement.date %}
+  {% set lieu = evenement.data.lieu %}
+  {% include "evenement-meta.njk" %}
+  {{ evenement.templateContent | excerpt | safe }}
+{%- endif -%}
+
+{%- endfor -%}
+</dl>
+
+{% endif %}
+
+{% endif %}

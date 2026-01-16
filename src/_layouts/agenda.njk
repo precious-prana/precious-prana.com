@@ -1,0 +1,75 @@
+
+{% extends "./base.njk" %}
+
+{# #######################################################################
+# Title block
+####################################################################### #}
+
+{% block title %}
+<title>{{ title }}, le {{ page.date | readableDate }} — {{ site.name }}</title>
+<meta property="og:title" content="{{ title }}, le {{ page.date | readableDate }} — {{ site.name }}" />
+{% endblock %}
+
+{# #######################################################################
+# Opengraph image block
+####################################################################### #}
+
+{% block opengraphImage %}
+  {% from "macros/intituleLieu.njk" import intituleLieu %}
+  {% set tagline = page.date | readableDate %}
+  {% set lieuString %}{{ intituleLieu(lieu, collections.lieux) }}{% endset %}
+  {% if lieuString != '' %}
+    {% set tagline %}{{ tagline }}%0A{{ lieuString | safe }}{% endset %}
+  {% endif %}
+  <meta property="og:image" content="{% ogImage title, tagline %}" />
+{% endblock %}
+
+{# #######################################################################
+# Content block
+####################################################################### #}
+
+{% block content %}
+<h1>{{ title }}</h1>
+
+{% set date = page.date %}
+{% include "evenement-meta.njk" %}
+
+{% include "cta.njk" %}
+
+{% if poster %}
+  <img
+    src="{{ poster }}"
+    alt="{{ title }} le {{ page.date | readableDate }}, par Precious Prana"
+    class="poster" />
+{% endif %}
+
+<div class="content">
+{{ content | safe }}
+</div>
+
+{% if lieu %}
+  {% for lieuItem in collections.lieux %}
+    {% set lieuPath = lieuItem.inputPath | replace('./', '') %}
+    {% if lieuPath == lieu %}
+      <h2>Localisation de l'événement</h2>
+      <div class="vcard">
+      <p class="fn">
+        {% if lieuItem.data.url %}<a class="url" href="{{ lieuItem.data.url }}">{% endif %}
+        <strong>{{ lieuItem.data.title }}</strong>
+        {% if lieuItem.data.url %}</a>{% endif %}
+      </p>
+      {% if lieuItem.data.address or lieuItem.data.postalcode or lieuItem.data.city %}
+        <p class="adr">
+          {% if lieuItem.data.address %}<span class="street-address">{{ lieuItem.data.address }}</span><br>{% endif %}
+          {% if lieuItem.data.postalcode %}<span class="postal-code">{{ lieuItem.data.postalcode }}</span> {% endif %}
+          {% if lieuItem.data.city %}<span class="city">{{ lieuItem.data.city }}</span>{% endif %}
+        </p>
+      {% endif %}
+      </div>
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% include "cta.njk" %}
+
+{% endblock %}
