@@ -24,6 +24,10 @@ export default async function (eleventyConfig) {
 
 	eleventyConfig.addPlugin(eleventyPluginPack11ty, pack11tyConfig);
 
+	eleventyConfig.addPassthroughCopy({
+		'src/pages/admin/config.yml': 'admin/config.yml',
+	});
+
 	eleventyConfig.setDataDeepMerge(true);
 	eleventyConfig.setQuietMode(true);
 
