@@ -29,7 +29,7 @@ collections:
     folder: 'src/collections/agenda'
     path: '{{slug}}'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{year}}-{{month}}-{{day}} {{title}}'
+    summary: '{{year}}/{{month}}/{{day}} {{title}}'
     create: true
     media_folder: 'media'
     public_folder: 'media'
