@@ -27,7 +27,7 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     create: true
-    media_folder: 'static/media/ateliers'
+    media_folder: 'src/static/media/ateliers'
     public_folder: 'media/ateliers'
     fields:
       - label: 'Titre'
