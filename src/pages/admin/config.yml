@@ -100,6 +100,44 @@ collections:
         name: 'body'
         widget: 'markdown'
         hint: 'Description de l‘atelier'
+  - name: 'interviews'
+    label: 'Interviews'
+    label_singular: 'interview'
+    folder: 'src/collections/interviews'
+    path: '{{slug}}'
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    create: true
+    media_folder: 'media'
+    public_folder: 'media'
+    fields:
+      - label: 'Titre'
+        name: 'title'
+        widget: 'string'
+        tagname: 'h1'
+      - label: 'Sous-titre'
+        name: 'subtitle'
+        widget: 'string'
+        required: false
+      - label: 'Brouillon'
+        name: 'draft'
+        widget: 'boolean'
+        default: true
+        required: false
+        hint: 'Ne sera pas affiché sur le site tant que coché'
+      - label: 'Ateliers'
+        name: 'ateliers'
+        widget: 'relation'
+        hint: 'Sélectionner les ateliers associés à cette interview'
+        collection: 'ateliers'
+        search_fields: ['title']
+        value_field: '{{slug}}'
+        display_fields: ['title']
+        multiple: true
+      - label: 'Contenu'
+        name: 'body'
+        widget: 'markdown'
+        hint: 'Contenu de l‘interview'
   - name: 'ateliers'
     label: 'Ateliers'
     label_singular: 'atelier'
