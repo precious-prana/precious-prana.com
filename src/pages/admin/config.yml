@@ -25,7 +25,7 @@ collections:
     folder: 'src/collections/ateliers'
     path: '{{slug}}'
     slug: '{{slug}}'
-    summary: '{{title}} ({{day}}/{{month}}/{{year}})'
+    summary: '{{title}}'
     create: true
     media_folder: 'static/media/ateliers'
     public_folder: 'media/ateliers'
@@ -40,6 +40,10 @@ collections:
         value_type: 'int'
         default: 0
         hint: 'Ordre d‘affichage dans la liste des ateliers'
+      - label: 'Contenu'
+        name: 'body'
+        widget: 'markdown'
+        hint: 'Description de l‘atelier'
   - name: 'pages'
     label: 'Pages'
     label_singular: 'page'
