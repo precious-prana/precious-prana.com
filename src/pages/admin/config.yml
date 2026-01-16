@@ -55,6 +55,7 @@ collections:
         name: 'draft'
         widget: 'boolean'
         default: true
+        required: false
         hint: 'Ne sera pas affiché sur le site tant que coché'
       - label: 'Formulaire d‘inscription'
         name: 'form_url'
@@ -117,6 +118,7 @@ collections:
         name: 'draft'
         widget: 'boolean'
         default: true
+        required: false
         hint: 'Ne sera pas affiché sur le site tant que coché'
       - label: 'Ordre'
         name: 'order'
@@ -149,6 +151,7 @@ collections:
         name: 'draft'
         widget: 'boolean'
         default: true
+        required: false
         hint: 'Ne sera pas affiché sur le site tant que coché'
       - label: 'Adresse'
         name: 'address'
