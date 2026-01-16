@@ -1,0 +1,70 @@
+backend:
+  name: git-gateway
+  branch: main
+
+site_url: https://precious-prana-2026.netlify.app
+
+locale: 'fr'
+
+media_folder: 'static/media'
+public_folder: 'media'
+publish_mode: simple
+
+show_preview_links: false
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
+collections:
+  - name: 'ateliers'
+    label: 'Ateliers'
+    label_singular: 'atelier'
+    folder: 'src/collections/ateliers'
+    path: '{{slug}}'
+    slug: '{{slug}}'
+    summary: '{{title}} ({{day}}/{{month}}/{{year}})'
+    create: true
+    media_folder: 'static/media/ateliers'
+    public_folder: 'media/ateliers'
+    fields:
+      - label: 'Titre'
+        name: 'title'
+        widget: 'string'
+        tagname: 'h1'
+      - label: 'Ordre'
+        name: 'order'
+        widget: 'number'
+        value_type: 'int'
+        default: 0
+        hint: 'Ordre d‘affichage dans la liste des ateliers'
+  - name: 'pages'
+    label: 'Pages'
+    label_singular: 'page'
+    folder: 'src/pages'
+    path: ''
+    slug: '{{slug}}'
+    summary: '{{title}}'
+    create: true
+    media_folder: ''
+    public_folder: ''
+    fields:
+      - label: 'Titre'
+        name: 'title'
+        widget: 'string'
+        tagname: 'h1'
+      - label: 'Ordre dans la navigation'
+        name: 'navorder'
+        widget: 'number'
+        default: 0
+        hint: 'Ordre dans la navigation, 0 pour ne pas l‘afficher'
+      - label: 'Image de couverture'
+        name: 'image'
+        widget: 'image'
+        media_folder: ''
+        required: false
+      - label: 'Texte'
+        name: 'body'
+        widget: 'markdown'
+        hint: 'Contenu de la page'

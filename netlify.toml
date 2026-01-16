@@ -3,12 +3,6 @@
   publish = "_site"
 
 # [[redirects]]
-#   from = "https://precious-prana-2026.netlify.com"
-#   to = "https://precious-prana.com"
-#   status = 301
-#   force = true
-
-# [[redirects]]
 #   from = "https://precious-prana-2026.netlify.app"
 #   to = "https://precious-prana.com"
 #   status = 301
