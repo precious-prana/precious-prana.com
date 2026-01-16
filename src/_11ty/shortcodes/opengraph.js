@@ -1,6 +1,6 @@
 import getShareImage from "@jlengstorf/get-share-image";
 
-export const ogImage = (title) => {
+export const ogImage = (title, tagline) => {
 	return title
 		? getShareImage({
 			imageWidth: 1200,
