@@ -29,10 +29,17 @@ collections:
     folder: 'src/collections/agenda'
     path: '{{slug}}'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    summary: '{{title}}'
+    summary: '{{year}}-{{month}}-{{day}} {{title}}'
     create: true
     media_folder: 'media'
     public_folder: 'media'
+    view_groups:
+    - label: Year
+      field: date
+      # groups items based on the value matched by the pattern
+      pattern: \d{4}
+    - label: Drafts
+      field: draft
     fields:
       - label: 'Titre'
         name: 'title'
