@@ -12,7 +12,7 @@ layout: homepage.njk
 Precious Prana est la communauté qui vous accompagne dans la gestion de <strong>votre équilibre entre vie professionnelle et vie personnelle</strong>. Notre objectif est de vous faire <strong>pétiller</strong> et de vous donner l'énergie pour être engagé(e)s dans votre vie personnelle et votre travail.
 </p>
 
-![Woman blowing glitters on her hands, © Oleg Magni](../media/woman-blowing-glitters-on-her-hands.jpg){.onehalf}
+![Woman blowing glitters on her hands, © Oleg Magni](media/woman-blowing-glitters-on-her-hands.jpg){.onehalf}
 
 Nous proposons des **ateliers et workshops**, suivant des thématiques, qui allient lâcher prise, création et action, et qui sont toujours accompagnés par un moment de partage. Ces ateliers vous apportent détente, prise de recul, ouverture d'esprit et dialogue, pour mieux construire votre équilibre, votre activité ou votre projet.
 
@@ -32,7 +32,7 @@ Envie de tenter ? Contactez-moi directement [par mail](mailto:contact@precious-p
 
 Découvrez [tous les types d'ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](/files/Precious-Prana-flyer-entreprise.pdf)
 
-![](../media/lake-pixabay-michael_kleinsasser.jpg)
+![](media/lake-pixabay-michael_kleinsasser.jpg)
 
 Nous avons également **une offre dédiée spécialement aux femmes actives**. Pour cette communauté, des rencontres ont actuellement lieu dans l’Essonne, Paris suivra sous peu. Au-delà des ateliers et leur cadre, ces femmes bénéficient des astuces qui leurs correspondent, pour retrouver l’énergie et être moteur.
 
