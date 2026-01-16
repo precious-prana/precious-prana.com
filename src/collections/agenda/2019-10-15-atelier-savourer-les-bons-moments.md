@@ -8,7 +8,6 @@ ateliers:
 - savourer-les-bons-moments
 lieu: radio-cocottes
 date: 2019-10-15
-
 ---
 Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
 

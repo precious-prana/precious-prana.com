@@ -5,7 +5,7 @@ show_homepage: true
 ateliers:
 - autres-ateliers
 lieu: espace-evolution
-
+date: 2019-05-21
 ---
 Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?
 

@@ -7,7 +7,7 @@ moodboard: ''
 ateliers:
 - yoga-du-rire
 lieu: espace-evolution
-
+date: 2019-09-17
 ---
 Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.
 

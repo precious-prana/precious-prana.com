@@ -7,7 +7,7 @@ moodboard: ''
 ateliers:
 - savourer-les-bons-moments
 lieu: espace-evolution
-
+date: 2019-07-02
 ---
 Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
 

@@ -4,7 +4,7 @@ show_homepage: false
 ateliers:
 - yoga-du-rire
 lieu: le-trente
-
+date: 2019-09-25
 ---
 L'atelier Yoga du Rire à l'espace de co-working « Le Trente » à Massy, fin septembre, a accompagné les entrepreneurs dans le lâcher-prise et la prise de recul. Ils sont repartis en voyant leurs défis sous un autre angle.
 

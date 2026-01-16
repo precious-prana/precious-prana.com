@@ -7,7 +7,7 @@ moodboard: ''
 ateliers:
 - autres-ateliers
 lieu: espace-evolution
-
+date: 2019-10-17
 ---
 La voix ne trompe pas. Comme votre visage, elle dit tout de nous, depuis nos émotions du moment jusqu’à notre personnalité profonde. Notre voix est unique et participe à notre singularité.
 

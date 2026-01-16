@@ -6,7 +6,7 @@ poster: ''
 moodboard: ''
 ateliers:
 - yoga-du-rire
-
+date: 2019-12-06
 ---
 Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.
 

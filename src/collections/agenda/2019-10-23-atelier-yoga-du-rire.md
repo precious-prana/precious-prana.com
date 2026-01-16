@@ -7,7 +7,7 @@ moodboard: ''
 ateliers:
 - yoga-du-rire
 lieu: le-trente
-
+date: 2019-10-23
 ---
 Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.
 
