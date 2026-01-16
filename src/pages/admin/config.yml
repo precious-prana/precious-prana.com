@@ -38,7 +38,7 @@ collections:
         name: 'draft'
         widget: 'boolean'
         default: true
-        hint: 'Ordre d‘affichage dans la liste des ateliers'
+        hint: 'Ne sera pas affiché sur le site tant que coché'
       - label: 'Ordre'
         name: 'order'
         widget: 'number'
