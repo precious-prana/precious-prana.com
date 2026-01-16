@@ -12,7 +12,6 @@ ici très prochainement, ou abonnez-vous à
 <div class="next">
 {% set evenement = events | first %}
 {% if evenement.data.poster %}
-  {# TODO: restaurer un lien de zoom sur les posters #}
   <img
     src="{{ evenement.data.poster }}"
     alt="{{ evenement.data.title }} le {{ evenement.date | readableDate }}, par Precious Prana"
