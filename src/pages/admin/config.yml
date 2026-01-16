@@ -7,7 +7,7 @@ site_url: https://precious-prana-2026.netlify.app
 
 locale: 'fr'
 
-media_folder: 'static/media'
+media_folder: 'src/static/media'
 public_folder: 'media'
 publish_mode: simple
 
