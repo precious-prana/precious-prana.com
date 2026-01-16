@@ -3,7 +3,8 @@ title: Accueil
 subtitle: La communauté pour faire pétiller l’énergie vitale des mères actives
 tags:
 - navigation
-navorder: 1
+nav:
+  order: 1
 layout: homepage.njk
 
 ---

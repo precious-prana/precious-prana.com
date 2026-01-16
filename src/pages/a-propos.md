@@ -3,7 +3,8 @@ title: À propos
 layout: base.njk
 tags:
 - navigation
-navorder: 7
+nav:
+  order: 7
 
 ---
 # À propos de Precious Prana

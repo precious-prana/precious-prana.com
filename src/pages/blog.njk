@@ -2,16 +2,9 @@
 title: Blog
 tags:
   - navigation
-navorder: 4
+nav:
+  order: 4
 ---
-
-{% extends "../_layouts/base.njk" %}
-
-{# #######################################################################
-# Content block
-####################################################################### #}
-
-{% block content %}
 
 <h1>Blog</h1>
 
@@ -21,4 +14,3 @@ navorder: 4
   {% include "billet-meta.njk" %}
   {{ billet.templateContent | excerpt | safe }}
 {%- endfor -%}
-{% endblock %}

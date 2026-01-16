@@ -2,16 +2,9 @@
 title: Agenda
 tags:
   - navigation
-navorder: 3
+nav:
+  order: 3
 ---
-
-{% extends "../_layouts/base.njk" %}
-
-{# #######################################################################
-# Content block
-####################################################################### #}
-
-{% block content %}
 
 <h1>Agenda</h1>
 
@@ -28,4 +21,3 @@ navorder: 3
   {{ evenement.templateContent | excerpt | safe }}
 {%- endfor -%}
 
-{% endblock %}
