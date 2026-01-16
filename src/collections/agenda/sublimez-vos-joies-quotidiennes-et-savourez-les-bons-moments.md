@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-05-19
 title: Sublimez vos joies quotidiennes et savourez les bons moments
 ateliers:
-- src/ateliers/savourer-les-bons-moments.md
-lieu: src/lieux/atelier-en-direct-live-streaming.md
+- savourer-les-bons-moments
+lieu: atelier-en-direct-live-streaming
 form_url: 'https://forms.gle/VaQAUugkgVoiVFye8 '
 poster: "/images/Sublimez-vos-joies-quotidiennes-FB.png"
 moodboard: ''

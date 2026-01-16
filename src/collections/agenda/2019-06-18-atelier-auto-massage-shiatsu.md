@@ -4,8 +4,8 @@ poster: "/images/2019-06-18-atelier-auto-massage-shiatsu.png"
 form_url: http://bit.ly/precious-prana-auto-massage-juin
 show_homepage: true
 ateliers:
-- src/ateliers/auto-massage-shiatsu.md
-lieu: src/lieux/espace-evolution.md
+- auto-massage-shiatsu
+lieu: espace-evolution
 
 ---
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, on intervient sur plusieurs plans : physique, mental, émotionnel, relationnel, et on peut permettre à son corps de trouver des manières de s’autoguérir.

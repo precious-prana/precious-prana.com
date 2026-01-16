@@ -5,8 +5,8 @@ show_homepage: true
 poster: "/images/Savourer les bons moments-bis - Mars -1.png"
 moodboard: ''
 ateliers:
-- src/ateliers/savourer-les-bons-moments.md
-lieu: src/lieux/atelier-en-direct-live-streaming.md
+- savourer-les-bons-moments
+lieu: atelier-en-direct-live-streaming
 date: 2020-03-20
 
 ---

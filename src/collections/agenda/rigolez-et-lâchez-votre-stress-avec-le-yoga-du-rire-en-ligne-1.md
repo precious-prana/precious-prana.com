@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-04-18
 title: Rigolez et lâchez votre stress avec le Yoga du Rire en ligne
 ateliers:
-- src/ateliers/yoga-du-rire.md
-lieu: src/lieux/atelier-en-direct-live-streaming.md
+- yoga-du-rire
+lieu: atelier-en-direct-live-streaming
 form_url: https://forms.gle/iuecfJuKNxVpx8Hg6
 poster: "/images/image-Yoga-du-Rire-enligne-avril18.png"
 moodboard: ''

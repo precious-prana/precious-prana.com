@@ -3,9 +3,9 @@ title: Atelier auto-massage shiatsu
 poster: "/images/evenements/2020-01-21-atelier-auto-massage-shiatsu-precious-prana.png"
 form_url: https://www.weezevent.com/precious-prana-auto-massage-shiatsu-do-in
 show_homepage: true
-lieu: src/lieux/espace-evolution.md
+lieu: espace-evolution
 ateliers:
-- src/ateliers/auto-massage-shiatsu.md
+- auto-massage-shiatsu
 date: 2020-01-21
 
 ---

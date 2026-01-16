@@ -2,9 +2,9 @@
 show_homepage: true
 date: 2026-01-23
 title: 'Duo Bain de Gong à Draveil'
-lieu: src/lieux/cercle-de-mainville.md
+lieu: cercle-de-mainville
 ateliers:
-- src/ateliers/bain-de-gong.md
+- bain-de-gong
 poster: "/images/evenements/2026-01-23-bain-de-gong.png"
 moodboard: ''
 ---

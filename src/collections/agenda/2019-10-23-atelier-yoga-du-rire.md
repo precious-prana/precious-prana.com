@@ -5,8 +5,8 @@ show_homepage: true
 poster: ''
 moodboard: ''
 ateliers:
-- src/ateliers/yoga-du-rire.md
-lieu: src/lieux/le-trente.md
+- yoga-du-rire
+lieu: le-trente
 
 ---
 Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.

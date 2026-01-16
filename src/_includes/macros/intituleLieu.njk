@@ -1,8 +1,7 @@
 {% macro intituleLieu(slug, lieux) %}
   {%- if slug -%}
     {%- for lieuItem in lieux -%}
-      {%- set lieuPath = lieuItem.inputPath | replace('./', '') -%}
-      {%- if lieuPath == slug -%}
+      {%- if lieuItem.fileSlug == slug -%}
         {{ lieuItem.data.title | replace("'", '’') }}{% if lieuItem.data.city %}, à {{ lieuItem.data.city | replace("'", '’') }}{%- endif -%}
       {%- endif -%}
     {%- endfor -%}

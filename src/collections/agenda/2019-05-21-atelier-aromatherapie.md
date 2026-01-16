@@ -3,8 +3,8 @@ title: Atelier Aromathérapie
 poster: "/images/2019-05-21-atelier-aromatherapie.jpg"
 show_homepage: true
 ateliers:
-- src/ateliers/autres-ateliers.md
-lieu: src/lieux/espace-evolution.md
+- autres-ateliers
+lieu: espace-evolution
 
 ---
 Envie de savoir utiliser les huiles essentielles pour le relaxation, la gestion du stress, les rhumes et allergies et autres applications bien pratiques ?

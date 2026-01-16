@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-12-22
 title: 'Yoga du Rire - mini séance en ligne tous les mardis '
 ateliers:
-- src/ateliers/yoga-du-rire.md
-lieu: src/lieux/atelier-en-direct-live-streaming.md
+- yoga-du-rire
+lieu: atelier-en-direct-live-streaming
 form_url: ''
 poster: "/images/yogadurire-rireenligne-calendrierdec2020.jpg"
 moodboard: ''

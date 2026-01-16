@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-02-04
 title: 'Yoga du Rire '
 ateliers:
-- src/ateliers/yoga-du-rire.md
-lieu: src/lieux/le-rooftop-de-viry.md
+- yoga-du-rire
+lieu: le-rooftop-de-viry
 form_url: ''
 poster: "../media/pixabay-smile-yellow-plush-toy.jpg"
 moodboard: ''

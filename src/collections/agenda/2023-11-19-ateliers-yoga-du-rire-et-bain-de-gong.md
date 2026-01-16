@@ -2,10 +2,10 @@
 show_homepage: true
 date: 2023-11-19
 title: 'Ateliers Yoga du Rire et Bain de Gong à Viry Chatillon'
-lieu: src/lieux/le-rooftop-de-viry.md
+lieu: le-rooftop-de-viry
 ateliers:
-- src/ateliers/yoga-du-rire.md
-- src/ateliers/bain-de-gong.md
+- yoga-du-rire
+- bain-de-gong
 poster: "/images/evenements/2023-11-19-yoga-du-rire-et-bain-de-gong.jpg"
 moodboard: ''
 

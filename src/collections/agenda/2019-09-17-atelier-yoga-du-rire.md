@@ -5,8 +5,8 @@ show_homepage: true
 poster: "../media/2019-09-17-atelier-yoga-du-rire.png"
 moodboard: ''
 ateliers:
-- src/ateliers/yoga-du-rire.md
-lieu: src/lieux/espace-evolution.md
+- yoga-du-rire
+lieu: espace-evolution
 
 ---
 Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.

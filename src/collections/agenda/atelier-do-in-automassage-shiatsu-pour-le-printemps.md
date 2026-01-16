@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-03-24
 title: Atelier "Do-In" Automassage Shiatsu pour le printemps - REPORTE temporairement
 ateliers:
-- src/ateliers/auto-massage-shiatsu.md
-lieu: src/lieux/espace-evolution.md
+- auto-massage-shiatsu
+lieu: espace-evolution
 form_url: https://forms.gle/UudionWkYKMz6oLC8
 poster: "/images/REPORT-DoIn-printemps.png"
 moodboard: ''
@@ -12,13 +12,13 @@ moodboard: ''
 ---
 Plus qu'un massage, le shiatsu est un massage traditionnel japonais qui utilise les points d’acupressions. Par ce biais, nous intervenons sur plusieurs plans : physique, mental, émotionnel, relationnel, et nous pouvons permettre à notre corps de trouver des manières de s’autoguérir.
 
-::: note 
+::: note
 
-Et oui, malheureusement nous sommes contraintes de reporter cet atelier suite a confinement demandé actuellement. Nous étudions la possibilité d'animer l'atelier enligne, mais dans cet atelier énergie du corps et le toucher sont tellement important que nous ne souhaitons pas réduire la qualité de l'atelier.   
-  
-Nous ne souhaitons pas que l'atelier devient plutôt une conférence sans possibilité de corriger les gestes et de ressentir concrètement comment l'énergie est stimulé.   
-  
-Si vous êtes intéressé(e)s par cet atelier, écrivez-nous un mail (contact@precious-prana.com) ou abonnez-vous directement à la newsletter où vous aurez les informations.   
+Et oui, malheureusement nous sommes contraintes de reporter cet atelier suite a confinement demandé actuellement. Nous étudions la possibilité d'animer l'atelier enligne, mais dans cet atelier énergie du corps et le toucher sont tellement important que nous ne souhaitons pas réduire la qualité de l'atelier.
+
+Nous ne souhaitons pas que l'atelier devient plutôt une conférence sans possibilité de corriger les gestes et de ressentir concrètement comment l'énergie est stimulé.
+
+Si vous êtes intéressé(e)s par cet atelier, écrivez-nous un mail (contact@precious-prana.com) ou abonnez-vous directement à la newsletter où vous aurez les informations.
 Merci pour votre compréhension.
 
  :::

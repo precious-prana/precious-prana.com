@@ -3,7 +3,7 @@ show_homepage: true
 date: 2020-03-01
 title: Conférence "Sublimez vos joies quotidiennes"
 ateliers:
-- src/ateliers/savourer-les-bons-moments.md
+- savourer-les-bons-moments
 lieu: ''
 form_url: ''
 poster: "/images/2020-02-29-affiche-salon-vivre-autrement-brunoy.jpg"

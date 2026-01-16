@@ -5,8 +5,8 @@ show_homepage: true
 poster: "/images/evenements/2019-12-04-atelier-oser-la-voix.png"
 moodboard: ''
 ateliers:
-- src/ateliers/autres-ateliers.md
-lieu: src/lieux/coffice-corner.md
+- autres-ateliers
+lieu: coffice-corner
 
 ---
 La voix ne trompe pas. Comme votre visage, elle dit tout de nous, depuis nos émotions du moment jusqu’à notre personnalité profonde. Notre voix est unique et participe à notre singularité.

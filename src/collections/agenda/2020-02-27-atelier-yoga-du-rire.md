@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-02-27
 title: Atelier Yoga du Rire
 ateliers:
-- src/ateliers/yoga-du-rire.md
-lieu: src/lieux/coffice-corner.md
+- yoga-du-rire
+lieu: coffice-corner
 form_url: ''
 poster: "../media/pixabay-smile-yellow-plush-toy.jpg"
 moodboard: ''

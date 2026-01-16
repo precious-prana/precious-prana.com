@@ -4,7 +4,7 @@ poster: "/images/2019-06-21-journee-bien-etre-au-30-paris-saclay.jpg"
 form_url: https://www.eventbrite.fr/e/billets-journee-bien-etre-atelier-et-conferences-bien-etre-et-sante-au-travail-62978076121
 moodboard: ''
 show_homepage: false
-lieu: src/lieux/le-trente.md
+lieu: le-trente
 
 ---
 Nous avons le plaisir de vous annoncer la journée bien être au "Trente" (Massy, 91) le vendredi 21 juin.

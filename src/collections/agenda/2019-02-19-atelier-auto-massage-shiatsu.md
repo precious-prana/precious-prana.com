@@ -3,8 +3,8 @@ title: Atelier auto-massage shiatsu
 poster: "/images/2019-02-19-atelier-auto-massage-shiatsu.png"
 show_homepage: true
 ateliers:
-- src/ateliers/auto-massage-shiatsu.md
-lieu: src/lieux/espace-evolution.md
+- auto-massage-shiatsu
+lieu: espace-evolution
 date: 2019-02-19
 
 ---

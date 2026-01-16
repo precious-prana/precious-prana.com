@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-03-28
 title: 'Atelier Yoga du Rire à Draveil - REPORTE '
 ateliers:
-- src/ateliers/yoga-du-rire.md
-lieu: src/lieux/radio-cocottes.md
+- yoga-du-rire
+lieu: radio-cocottes
 form_url: https://forms.gle/sXBW5V8Y36v93Z3u7
 poster: "/images/2020-03-28-yoga-du-rire.jpg"
 moodboard: ''

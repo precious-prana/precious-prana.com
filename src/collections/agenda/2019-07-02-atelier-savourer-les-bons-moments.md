@@ -5,8 +5,8 @@ show_homepage: true
 poster: "/images/2019-07-02-atelier-savourer-les-bons-moments.png"
 moodboard: ''
 ateliers:
-- src/ateliers/savourer-les-bons-moments.md
-lieu: src/lieux/espace-evolution.md
+- savourer-les-bons-moments
+lieu: espace-evolution
 
 ---
 Envie de bien profiter de vos moments, de les savourer et non de passer à côté et le regretter ?
@@ -38,7 +38,7 @@ Les différents exercices ont appris aux participantes, de manière ludique, que
 ### Quelques retours
 
 « Un atelier bien organisé dans une ambiance très conviviales. Je repars avec le sourire et des outils pour savourer encore plus la vie. Un grand merci. » (E.F)
- 
+
 « Un échange sincère et bienveillant » (A.M)
- 
+
 « Nous doutons trop de notre potentiel. Cet atelier m’a appris par des actes simples comment se redonner confiance ». (C.G.)

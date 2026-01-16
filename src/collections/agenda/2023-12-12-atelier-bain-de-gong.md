@@ -2,9 +2,9 @@
 show_homepage: true
 date: 2023-12-12
 title: 'Atelier Bain de Gong à Viry Chatillon'
-lieu: src/lieux/le-rooftop-de-viry.md
+lieu: le-rooftop-de-viry
 ateliers:
-- src/ateliers/bain-de-gong.md
+- bain-de-gong
 poster: "/images/evenements/2023-12-12-bain-de-gong.png"
 moodboard: ''
 ---

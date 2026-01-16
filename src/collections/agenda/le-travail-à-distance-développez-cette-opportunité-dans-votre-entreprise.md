@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-05-14
 title: 'Le travail à distance : développez cette opportunité dans votre entreprise'
 ateliers:
-- src/ateliers/accompagnement-au-changement-transformation-en-entreprises.md
-lieu: src/lieux/atelier-en-direct-live-streaming.md
+- accompagnement-au-changement-transformation-en-entreprises
+lieu: atelier-en-direct-live-streaming
 form_url: https://www.weezevent.com/les-outils-pour-travailler-a-distance
 poster: "/images/AndreyBukreev-Design Thinking-business-small.jpg"
 moodboard: ''

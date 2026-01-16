@@ -5,8 +5,8 @@ show_homepage: true
 poster: "/images/evenements/2019-10-15-atelier-savourer-les-bons-moments.jpg"
 moodboard: ''
 ateliers:
-- src/ateliers/savourer-les-bons-moments.md
-lieu: src/lieux/radio-cocottes.md
+- savourer-les-bons-moments
+lieu: radio-cocottes
 date: 2019-10-15
 
 ---

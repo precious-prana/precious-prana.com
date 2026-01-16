@@ -3,8 +3,8 @@ show_homepage: true
 date: 2020-02-04
 title: 'Bain de Gong au Rooftop de Viry '
 ateliers:
-- src/ateliers/bain-de-gong.md
-lieu: src/lieux/le-rooftop-de-viry.md
+- bain-de-gong
+lieu: le-rooftop-de-viry
 form_url: ''
 poster: "media/circle-waves-on-water-bleu.jpg"
 moodboard: ''
