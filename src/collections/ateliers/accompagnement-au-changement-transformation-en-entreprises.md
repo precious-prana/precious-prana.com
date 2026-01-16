@@ -7,7 +7,7 @@ Accompagner les équipes, le cadre dirigeant et les acteurs de manière efficae 
 
 J'accompagne le changement en enteprise avec mon modèle "VIARE" qui s'inspire des classiques de la conduite du changement, mais est enrichi de 'ADKAR", des études de risques de burn-out et d'engagement des salarieés ainsi que de l'intelligence collective, pour proposer un changement qui engage les salariés.
 
-![](/media/ateliers/gustavofrazao-Change-small.jpg)
+![](media/gustavofrazao-Change-small.jpg)
 
 Le changement et la transformation d'entreprise ne réussit pas dans la force. Les salariés sont souvent prêts à accepter le changement quand ils se sentent écoutés et quand ils se sentent co-créateur de la nouvelle vision. Leur implication et engagement seront bien plus efficace ainsi et les projets verront leurs chances de réussites augmentées ainsi que la productivité.
 
@@ -21,4 +21,4 @@ Mon accompagnement peut se faire en français, anglais et néerlandais. Je suis 
 
 :::
 
-![](/media/ateliers/Canva-BusinessChange-Management-Mechanism-small.jpg)
+![](media/Canva-BusinessChange-Management-Mechanism-small.jpg)
