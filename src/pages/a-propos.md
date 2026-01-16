@@ -15,13 +15,13 @@ Precious Prana propose des ateliers, des workshops et un accompagnement sur la d
 
 Ces séances vous apportent détente, prise de recul, ouverture d’esprit et dialogue pour mieux contruire votre équilibre, votre activité ou votre projet.
 
-![](../media/Canva-marekuliasz1.jpg)
+![](/media/Canva-marekuliasz1.jpg)
 
 ## Offre pour entreprises, salariés et entrepreneurs
 
 Mon programme d'accompagnement au changement est enrichi avec la dialogue, l'innovation et l'humour pour accroître l'engagement, notamment dans les périodes de transformations. Il s’adresse aux salariés en entreprises dans le cadre d’un accompagnement au changement, mais aussi pour l’équilibre de vie au travail dans un environnement de transformation. Les activités réduisent le stress, les incompréhensions et redonnent le sens et vision au travail et aux équipes.
 
-![](../media/faire-petiller-les-equipes.jpg)
+![](/media/faire-petiller-les-equipes.jpg)
 
 Mon offre s’adapte également aux groupes d’entrepreneurs et aux particuliers. C’est votre moment de repos dans un environnement réceptif, pour créer des échanges, préparer vos idées et envies à faire germer, ressentir la joie et vous mettre en action.
 
@@ -33,7 +33,7 @@ Ces ateliers peuvent avoir lieu en entreprise, dans un réseau de femmes existan
 
 ## Jacqueline Oud, fondatrice de Precious Prana
 
-![Jacqueline Oud](../media/jacqueline-oud.jpg){.onethird .round}
+![Jacqueline Oud](/media/jacqueline-oud.jpg){.onethird .round}
 **Jacqueline Oud** est d’origine néerlandaise et a trois enfants. Elle a travaillé pendant 15 ans en gestion de projet sur des sujets transverses et internationaux, puis elle a géré une équipe en accompagnement au changement en entreprise pendant 4 ans.
 
 Ses expériences professionnelles et personnelles l’ont motivée à mettre l’humain et son épanouissement au centre de sa démarche. Elle est convaincue que l’épanouissement et l’équilibre personnel sont, tant pour les entreprises que pour les individus et leur entourage, **un facteur clef de réussite et de progrès**.
@@ -42,4 +42,4 @@ Ses expériences professionnelles et personnelles l’ont motivée à mettre l�
 >
 > C'est pour cela que je partage mes compétences, ainsi que mes expériences dans l'accompagnement des salariés et des individus. Dans les turbulances des changements, restez acteurs et actrices de votre vie. Pétillez.
 
-![](../media/woman-blowing-glitters-on-her-hands.jpg)
+![](/media/woman-blowing-glitters-on-her-hands.jpg)
