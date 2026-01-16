@@ -48,9 +48,9 @@ On peut donc lister les bienfaits suivants :
 
 {% gallery %}
 
-![](/images/Yoga-du-rire-Rooftop-Feb-2020-4.jpg){.onehalf}
-![](/images/Yoga-du-rire-Rooftop-Feb-2020-1.jpg){.onehalf}
-![](/images/Ho-ho-hahaha6-enfants-floute.png)
+![](../media/Yoga-du-rire-Rooftop-Feb-2020-4.jpg){.onehalf}
+![](../media/Yoga-du-rire-Rooftop-Feb-2020-1.jpg){.onehalf}
+![](../media/Ho-ho-hahaha6-enfants-floute.png)
 
 {% endgallery %}
 
@@ -60,8 +60,8 @@ https://www.youtube.com/watch?v=CTE2uGTJrRw
 
 ## Pour plus d’informations
 
-![Yoga du Rire](/images/yoga-du-rire-logo-officiel.jpg){.onethird}
+![Yoga du Rire](../media/yoga-du-rire-logo-officiel.jpg){.onethird}
 
 L'atelier est animé par Jacqueline Oud, fondatrice Precious Prana et animatrice agréée formée par l’[Institut Français du Yoga du Rire](https://www.formation-yogadurire.fr/).
 
-**Remarque** : Le Yoga du Rire n’est pas une pratique à risque. Cependant, le médecin fondateur a émis des réserves, par soucis de précaution et rappelle quelques limites relevant souvent du bon sens. Ces contre-indications sont disponibles ici  [https://precious-prana.com/yoga-du-rire-contre-indications-medicales/](https://precious-prana.com/yoga-du-rire-contre-indications-medicales/ "https://precious-prana.com/yoga-du-rire-contre-indications-medicales/")
+**Remarque** : Le Yoga du Rire n’est pas une pratique à risque. Cependant, le médecin fondateur a émis des réserves, par soucis de précaution et rappelle quelques limites relevant souvent du bon sens. Ces contre-indications sont disponibles ici  [https://precious-prana.com/yoga-du-rire-contre-indications-medicales/](https://precious-prana.com/yoga-du-rire-contre-indications-medicales/)

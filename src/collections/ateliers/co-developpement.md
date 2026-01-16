@@ -32,7 +32,7 @@ Une séance dure 3 heures. Cette durée permet de respecter la méthode officiel
 **Pour aller plus loin :**
 
 * [Anima CECODEV](https://www.cecodev.fr/cecodev/le-centre-europeen-de-codeveloppement-professionnel-et-managerial) (Centre Européen de Codéveloppement Professionnel et Managérial)
-* Le livre blanc du Codéveloppement, par CECODEV : [https://www.cecodev.fr/images/Livre-Blanc.pdf](https://www.cecodev.fr/images/Livre-Blanc.pdf "https://www.cecodev.fr/images/Livre-Blanc.pdf")
+* Le livre blanc du Codéveloppement, par CECODEV : [https://www.cecodev.fr/images/Livre-Blanc.pdf](https://www.cecodev.fr/images/Livre-Blanc.pdf)
 
 Pour en savoir plus, contactez-moi [par mail ](mailto:jacqueline@precious-prana.com)
 
@@ -43,4 +43,4 @@ Je peux animer des ateliers en français, anglais et néerlandais.
 
 :::
 
-![](/images/Canva-marekuliasz1.jpg)
+![](../media/Canva-marekuliasz1.jpg)

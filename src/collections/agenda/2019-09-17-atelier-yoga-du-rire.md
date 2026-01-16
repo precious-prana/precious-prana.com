@@ -2,7 +2,7 @@
 title: Atelier Yoga du Rire
 form_url: https://bit.ly/rire-et-petiller
 show_homepage: true
-poster: "/images/2019-09-17-atelier-yoga-du-rire.png"
+poster: "../media/2019-09-17-atelier-yoga-du-rire.png"
 moodboard: ''
 ateliers:
 - src/ateliers/yoga-du-rire.md
@@ -23,7 +23,7 @@ Bien entendu, toujours dans l'ambiance de Precious Prana avec le moment « coco
 
 ## Le Yoga du Rire, ca fait quoi ?
 
-![Yoga du Rire](/images/yoga-du-rire-logo-officiel.jpg){.onethird}
+![Yoga du Rire](../media/yoga-du-rire-logo-officiel.jpg){.onethird}
 
 En quelques mots ces avantages :
 
@@ -45,4 +45,4 @@ Pour vraiment vous faire du bien en cette rentrée, je propose cet atelier Yoga 
 
 Rendez-vous mardi 17 septembre à Brunoy, à 19h30.
 
-![Two yellow plush toys smiling](/images/illustrations/pixabay-smile-yellow-plush-toy.jpg "Crédits photo: Smile Yellow Plush Toy, Pixabay")
+![Two yellow plush toys smiling](../media/pixabay-smile-yellow-plush-toy.jpg "Crédits photo: Smile Yellow Plush Toy, Pixabay")

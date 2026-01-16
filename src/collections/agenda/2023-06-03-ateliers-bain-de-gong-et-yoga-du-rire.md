@@ -19,4 +19,4 @@ Precious Prana est heureux de proposer des ateliers Bain de Gong et Yoga du Rire
 
 **Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
 
-![](/images/illustrations/pixabay-smile-yellow-plush-toy.jpg)
+![](../media/pixabay-smile-yellow-plush-toy.jpg)
