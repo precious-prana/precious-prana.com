@@ -27,7 +27,7 @@ Note : si besoin, les participantes ont la possibilité de redemander une copie 
 
 ## Le moodboard et les retours des participantes
 
-![Moodboard de l'atelier auto-massage shiatsu du 19 février 2019, par Precious Prana](/images/2019-02-19-moodboard-shiatsu.jpg){.zoom}
+![Moodboard de l'atelier auto-massage shiatsu du 19 février 2019, par Precious Prana](media/2019-02-19-moodboard-shiatsu.jpg){.zoom}
 
 Quelques retours sur ce que les participantes ont retenues de l’atelier :
 - « Prendre un petit temps quotidiennement »
@@ -35,5 +35,5 @@ Quelques retours sur ce que les participantes ont retenues de l’atelier :
 - « La vitalité du printemps »
 
 Quelques retours sur l’événement en général :
-- « C'était vraiment une belle soirée, de belles rencontres ! J'ai été ravie et je reviendrais sûrement. » 
+- « C'était vraiment une belle soirée, de belles rencontres ! J'ai été ravie et je reviendrais sûrement. »
 - « Accueil, convivialité et une très bonne idée »
