@@ -30,7 +30,7 @@ Les séances de Yoga du Rire en ligne continuent pendant le confinement. Elles o
 
 Envie de tenter ? Contactez-moi directement [par mail](mailto:contact@precious-prana.com) ou voyer l'agenda pour les dates à venir.
 
-Découvrez [tous les types d'ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](/files/Precious-Prana-flyer-entreprise.pdf)
+Découvrez [tous les types d'ateliers](/ateliers/) et découvrez également notre [offre de services spécifiques pour les entreprises](/media/Precious-Prana-flyer-entreprise.pdf)
 
 ![](/media/lake-pixabay-michael_kleinsasser.jpg)
 

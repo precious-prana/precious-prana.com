@@ -1,6 +1,6 @@
 ---
 title: Soirée spéciale « Solstice d'hiver » lundi 21 décembre 2020
-poster: "/images/solsticedhiver2020.jpg"
+poster: "../media/solsticedhiver2020.jpg"
 form_url: https://forms.gle/cdx8WCR8EQgBjPm68
 show_homepage: true
 lieu: atelier-en-direct-live-streaming

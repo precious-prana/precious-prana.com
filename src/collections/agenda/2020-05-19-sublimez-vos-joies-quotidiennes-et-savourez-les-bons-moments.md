@@ -6,7 +6,7 @@ ateliers:
 - savourer-les-bons-moments
 lieu: atelier-en-direct-live-streaming
 form_url: 'https://forms.gle/VaQAUugkgVoiVFye8 '
-poster: "/images/Sublimez-vos-joies-quotidiennes-FB.png"
+poster: "../media/Sublimez-vos-joies-quotidiennes-FB.png"
 moodboard: ''
 
 ---

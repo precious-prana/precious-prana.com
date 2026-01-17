@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: ''
-poster: "/images/yogadurire-rireenligne-calendrierdec2020.jpg"
+poster: "../media/yogadurire-rireenligne-calendrierdec2020.jpg"
 moodboard: ''
 
 ---
@@ -17,4 +17,4 @@ Depuis plus de 3 mois déjà nous avons rejoint l'équipe de rire pour assurer t
 Rejoignez-nous, c'est gratuit :
 
 * Rejoignez le groupe 👍 [https://us02web.zoom.us/j/134806219...](https://us02web.zoom.us/j/134806219... "https://us02web.zoom.us/j/134806219...")
-* le code, si besoin 😛 7 J z b t
+* le code, si besoin 😛 `7Jzbt`

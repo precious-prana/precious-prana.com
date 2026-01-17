@@ -6,7 +6,7 @@ backend:
 site_url: https://precious-prana-2026.netlify.app
 
 logo:
-  src: https://precious-prana-2026.netlify.app/media/favicon-256.png
+  src: https://precious-prana-2026.netlify.app/favicon-256.png
   show_in_header: true
 
 locale: 'fr'

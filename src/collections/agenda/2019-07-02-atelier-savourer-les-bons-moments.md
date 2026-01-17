@@ -2,7 +2,7 @@
 title: Atelier Savourer les bons moments
 form_url: http://bit.ly/PreciousPrana-savourerlesbonsmoments
 show_homepage: true
-poster: "/images/2019-07-02-atelier-savourer-les-bons-moments.png"
+poster: "../media/2019-07-02-atelier-savourer-les-bons-moments.png"
 moodboard: ''
 ateliers:
 - savourer-les-bons-moments

@@ -1,6 +1,6 @@
 ---
 title: Atelier auto-massage shiatsu
-poster: "/images/2019-02-19-atelier-auto-massage-shiatsu.png"
+poster: "../media/2019-02-19-atelier-auto-massage-shiatsu.png"
 show_homepage: true
 ateliers:
 - auto-massage-shiatsu

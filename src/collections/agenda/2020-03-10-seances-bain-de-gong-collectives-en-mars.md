@@ -6,7 +6,7 @@ ateliers:
 - bain-de-gong
 lieu: ''
 form_url: https://www.medamagnetisme.com/book-online
-poster: "/images/Gong-Uranus.jpg"
+poster: "../media/Gong-Uranus.jpg"
 moodboard: ''
 
 ---

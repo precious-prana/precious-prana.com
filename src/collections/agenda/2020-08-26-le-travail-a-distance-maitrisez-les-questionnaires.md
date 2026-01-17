@@ -6,7 +6,7 @@ ateliers:
 - accompagnement-au-changement-transformation-en-entreprises
 lieu: atelier-en-direct-live-streaming
 form_url: https://www.weezevent.com/atelier-questionnaires
-poster: "/images/atelier-maitrisez-les-questionnaires-26082020.jpg"
+poster: "../media/atelier-maitrisez-les-questionnaires-26082020.jpg"
 moodboard: ''
 
 ---

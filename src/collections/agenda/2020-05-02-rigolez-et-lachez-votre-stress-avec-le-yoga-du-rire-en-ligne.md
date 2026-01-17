@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: https://forms.gle/2weLAUk9YhvLPG1q7
-poster: "/images/YogaduRire.jpg"
+poster: "../media/YogaduRire.jpg"
 moodboard: ''
 
 ---

@@ -12,7 +12,7 @@ Nous ressentons tous le stress de l’actualité dans notre environnement et l�
 
 Alors nous vous proposons **cet atelier en ligne gratuit** exceptionnellement !
 
-![](/images/Canva_joy_home.jpg)
+![](../media/Canva_joy_home.jpg)
 
 **Pour les autres ateliers**, nous allons voir pour les développer en ligne, pour vous proposer un support en conférence, ou les reporter. Nous avons déjà des pistes sérieuses pour trouver un accompagnement en remplacement.
 

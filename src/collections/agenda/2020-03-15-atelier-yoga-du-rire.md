@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: ''
 form_url: ''
-poster: "/images/2020-03-15-yoga-du-rire-arbre-de-vie-image-1.jpg"
+poster: "../media/2020-03-15-yoga-du-rire-arbre-de-vie-image-1.jpg"
 moodboard: ''
 
 ---

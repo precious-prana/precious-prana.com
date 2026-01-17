@@ -1,6 +1,6 @@
 ---
 title: Atelier Aromathérapie
-poster: "/images/2019-05-21-atelier-aromatherapie.jpg"
+poster: "../media/2019-05-21-atelier-aromatherapie.jpg"
 show_homepage: true
 ateliers:
 - autres-ateliers
@@ -24,7 +24,7 @@ Découvrez [l'interview que Marie Duhammel nous a accordée](/interviews/marie-d
 Le moodboard :
 
 
-![Moodboard de l'atelier aromathérapie du 21 mai 2019, par Precious Prana](/images/2019-05-21-moodboard-aromatherapie.jpg){.zoom}
+![Moodboard de l'atelier aromathérapie du 21 mai 2019, par Precious Prana](../media/2019-05-21-moodboard-aromatherapie.jpg){.zoom}
 
 ## Bonus
 
