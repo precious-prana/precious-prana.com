@@ -5,7 +5,7 @@ title: 'Atelier Bain de Gong à Viry Chatillon'
 lieu: le-rooftop-de-viry
 ateliers:
 - bain-de-gong
-poster: "../media/2023-11-30-bain-de-gong.jpg"
+poster: "media/2023-11-30-bain-de-gong.jpg"
 moodboard: ''
 ---
 

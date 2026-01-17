@@ -1,6 +1,6 @@
 ---
 title: Atelier auto-massage shiatsu
-poster: "../media/2019-10-01-atelier-auto-massage-shiatsu.jpg"
+poster: "media/2019-10-01-atelier-auto-massage-shiatsu.jpg"
 form_url: https://bit.ly/Preciousprana-shiatsu-automne
 show_homepage: true
 ateliers:
@@ -28,4 +28,4 @@ Rendez-vous le mardi 1er octobre, dans notre espace **à Brunoy, de 19h à 21h30
 
 Voyez [le moodboard et les retours des participantes](/evenements/2019/02/19/atelier-auto-massage-shiatsu/#le-moodboard-et-les-retours-des-participantes) d'un précédent atelier d'auto-massage shiatsu.
 
-![](../media/canva-hallway-in-blue-and-orange-wall-paint-par-fancycrave.jpg)
+![](media/canva-hallway-in-blue-and-orange-wall-paint-par-fancycrave.jpg)

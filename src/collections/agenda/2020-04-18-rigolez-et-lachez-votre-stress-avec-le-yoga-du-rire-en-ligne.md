@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: https://forms.gle/iuecfJuKNxVpx8Hg6
-poster: "../media/image-Yoga-du-Rire-enligne-avril18.png"
+poster: "media/image-Yoga-du-Rire-enligne-avril18.png"
 moodboard: ''
 
 ---
@@ -39,4 +39,4 @@ Prix : participation libre pour la séance, (Vous pouvez utiliser Lydia ou Payli
 
 **Et un aperçu d'une séance en ligne:**
 
-![](../media/collage-yoga-du-rire-medium.png)
+![](media/collage-yoga-du-rire-medium.png)

@@ -2,7 +2,7 @@
 title: Atelier Savourer les bons moments - édition printemps
 form_url: https://forms.gle/ugXRFTNhNhwrJfzv7
 show_homepage: true
-poster: "../media/Savourer-les-bons-moments-bis-Mars-1.png"
+poster: "media/Savourer-les-bons-moments-bis-Mars-1.png"
 moodboard: ''
 ateliers:
 - savourer-les-bons-moments
@@ -38,4 +38,4 @@ L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 Envie de revoir l’atelier « Savourer les bons moments » de juillet ? Découvrez [le moodboard de l'atelier et les retours des participantes](/evenements/2019/07/02/atelier-savourer-les-bons-moments/#le-moodboard-et-les-retours-des-participantes).
 :::
 
-![](../media/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)
+![](media/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)

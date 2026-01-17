@@ -43,4 +43,4 @@ Je peux animer des ateliers en français, anglais et néerlandais.
 
 :::
 
-![](../media/Canva-marekuliasz1.jpg)
+![](media/Canva-marekuliasz1.jpg)

@@ -1,7 +1,7 @@
 ---
 date: 2019-12-13
 title: 'Lancement d’un groupe de codéveloppement pour les parents d’ados '
-poster: "../media/Canva - Macro Shot of Light Bulb-bis.jpg"
+poster: "media/Canva - Macro Shot of Light Bulb-bis.jpg"
 
 ---
 « Seul on va plus vite, à plusieurs on va plus loin... ! » (proverbe africain). Rejoignez le nouveau groupe de codéveloppement pour les parents d’ados, pour travailler entre pairs autour des problématiques et situations liés à la vie de famille avec des enfants ados.

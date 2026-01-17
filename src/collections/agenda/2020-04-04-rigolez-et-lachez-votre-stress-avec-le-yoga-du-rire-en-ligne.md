@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: https://forms.gle/zDjBkoggvo9BjiPU9
-poster: "../media/YogaduRire-enligne.png"
+poster: "media/YogaduRire-enligne.png"
 moodboard: ''
 
 ---
@@ -36,4 +36,4 @@ Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi 
 * J'ai participé avec ma fille a une séance de yoga du rire pendant le confinement. Je ne savais pas trop comment cela allait se passer, au bout du compte j ai réussi vraiment à me détendre j ai beaucoup bailler pendant la séance et je suis vraiment détendue. J espère bientôt recommencer... Une très belle expérience merci à Jacqueline pour ce bon moment"
 :::
 
-![](../media/collage-yoga-du-rire-medium.png)
+![](media/collage-yoga-du-rire-medium.png)

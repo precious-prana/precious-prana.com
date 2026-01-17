@@ -18,7 +18,7 @@ D'ailleurs, pourquoi on parle de "son" et non de "musique" ? Car il ne s'agit pa
 
 Le plus connu dans cette catégorie de bien-être, et à la mode, est actuellement les **bols tibétains**, ou les bols en quartz. Ils vous donnent ce son agréable, vous bercent comme j'aime dire, dans une forêt de contes de fées, et vous vous y laissez très facilement amener. Leur son dépend non seulement du matériel utilisé, mais aussi du moment de leur fabrication. Il y a par exemple des bols tibétains faits une nuit de pleine lune, et leur son est très différent. On appelle les sons dans cette catégorie les "sons acoustiques".
 
-![](../media/Canva_Fairy_forest.jpg)
+![](media/Canva_Fairy_forest.jpg)
 
 Une autre forme de thérapie de guérison par le son - que vous connaissez certainement - sont les méditations chantées avec des mantras. Saviez-vous que **notre voix** est un instrument très puissant de guérison par le son ? La plupart des personnes ne savent plus se servir de la voix pour se guérir, mais pensez tout simplement à l'effet d'une berceuse pour un enfant, chantée par un proche (mère, père ou autre). La voix apaise, résonne, vibre. De plus en plus de personnes découvrent d'ailleurs aussi les chorales et re-découvrent à quel point chanter fait du bien. Et rappelez-vous que chanter dans sa salle de bain est excellent pour se libérer et se détendre. Vous voyez qu'il y a un large spectre possible avec notre voix, entre chanter des mantras sacrés et chanter sous la douche.
 
@@ -36,7 +36,7 @@ Le son du Gong qu'on perçoit est un "son d'origine", certains disent que c'est 
 
 Vous pourrez à ce moment là découvrir les contrées où rôdent les dragons, les méchants et les barbes rousses, qui vous ont donnés des échecs, des blessures et des blocages. Votre Ego, qui est à ce moment là dans la phase "d'accord" car toujours en confiance, accepte que les vibrations accèdent à cette zone plus sombre où sont stockés ces blessures et blocages. C'est à ce moment que les sons et vibrations pourront y lever les résistances, et remettre la douceur et fluidité pour guérir.
 
-![](../media/Canva_Mountain_During_Cloudy_Sky.jpg)
+![](media/Canva_Mountain_During_Cloudy_Sky.jpg)
 
 Il n'est pas rare que, pendant une séance, une blessure ravive sa douleur, pour ensuite disparaître pour de vrai, ou que vous vous sentiez comme envahi par un nuage sombre, puis de tomber d'une falaise pour arriver dans une zone plus lumineuse et paisible.
 

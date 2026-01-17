@@ -2,7 +2,7 @@
 title: Atelier Oser la voix
 form_url: https://www.weezevent.com/oser-la-voix-l-atelier-pour-mettre-de-l-energie-dans-votre-voix
 show_homepage: true
-poster: "../media/2019-12-04-atelier-oser-la-voix.png"
+poster: "media/2019-12-04-atelier-oser-la-voix.png"
 moodboard: ''
 ateliers:
 - autres-ateliers

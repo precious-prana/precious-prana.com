@@ -6,7 +6,7 @@ ateliers:
 - savourer-les-bons-moments
 lieu: atelier-en-direct-live-streaming
 form_url: 'https://forms.gle/VaQAUugkgVoiVFye8 '
-poster: "../media/Sublimez-vos-joies-quotidiennes-FB.png"
+poster: "media/Sublimez-vos-joies-quotidiennes-FB.png"
 moodboard: ''
 
 ---
@@ -34,4 +34,4 @@ Nous doutons trop de notre potentiel. Cet atelier m’a appris par des actes sim
 
 L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 
-![](../media/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)
+![](media/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)

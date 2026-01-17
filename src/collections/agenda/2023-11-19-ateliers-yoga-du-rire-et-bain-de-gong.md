@@ -6,7 +6,7 @@ lieu: le-rooftop-de-viry
 ateliers:
 - yoga-du-rire
 - bain-de-gong
-poster: "../media/2023-11-19-yoga-du-rire-et-bain-de-gong.jpg"
+poster: "media/2023-11-19-yoga-du-rire-et-bain-de-gong.jpg"
 moodboard: ''
 
 ---

@@ -6,7 +6,7 @@ ateliers:
 - savourer-les-bons-moments
 lieu: ''
 form_url: ''
-poster: "../media/2020-02-29-affiche-salon-vivre-autrement-brunoy.jpg"
+poster: "media/2020-02-29-affiche-salon-vivre-autrement-brunoy.jpg"
 moodboard: ''
 
 ---
@@ -26,6 +26,6 @@ Salle des fêtes et salles associatives
 
 Impasse de la Mairie, Brunoy
 
-![Flyer Vivre Autrement 2020, recto](../media/2020-02-29-flyer-salon-vivre-autrement-brunoy-recto.jpg){.twothirds .zoom}
+![Flyer Vivre Autrement 2020, recto](media/2020-02-29-flyer-salon-vivre-autrement-brunoy-recto.jpg){.twothirds .zoom}
 
-![Flyer Vivre Autrement 2020, verso](../media/2020-02-29-flyer-salon-vivre-autrement-brunoy-verso.jpg){.twothirds .zoom}
+![Flyer Vivre Autrement 2020, verso](media/2020-02-29-flyer-salon-vivre-autrement-brunoy-verso.jpg){.twothirds .zoom}

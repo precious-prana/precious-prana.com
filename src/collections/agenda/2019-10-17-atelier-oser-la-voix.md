@@ -2,7 +2,7 @@
 title: Atelier Oser la voix
 form_url: https://bit.ly/oser-la-voix
 show_homepage: true
-poster: "../media/2019-10-17-atelier-oser-la-voix.png"
+poster: "media/2019-10-17-atelier-oser-la-voix.png"
 moodboard: ''
 ateliers:
 - autres-ateliers
