@@ -25,7 +25,7 @@ La sensibilité, l’écoute et le professionnalisme de Véronique sont des vale
 > L'auto-massage est une technique qui permet de faire circuler l'énergie vitale dans le corps, ce qui stimule les défenses de l'organisme, permet de relancer la vitalité dans les organes, d'assouplir le corps et de rester en bonne santé, en harmonisant corps et esprit.
 
 ::: note
-Envie de savoir comment s’est passé l’atelier précédent d’auto-massage shiatsu : https://precious-prana.com/evenements/2019/02/19/atelier-auto-massage-shiatsu/
+Envie de savoir comment s’est passé l’atelier précédent d’auto-massage shiatsu : https://precious-prana-2026.netlify.app/agenda/2019/02/19/atelier-auto-massage-shiatsu/
 :::
 
 > Juin, lave ton corps à la fin du jour, tiens-toi en joie et ne mange pas trop.

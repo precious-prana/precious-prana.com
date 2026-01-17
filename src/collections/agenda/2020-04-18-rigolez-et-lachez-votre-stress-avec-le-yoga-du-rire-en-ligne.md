@@ -19,7 +19,7 @@ Yoga du rire et quelques mots des avantages : détruit le stress et libère les 
 Je vous rappelle, il ne s'agit pas d'exercices de gym ou yoga. Pas besoin de savoir rire facilement non plus. Vous pouvez également assister en famille, cela renforce la complicité et les rires.
 
 C'est votre moment pour rire et vous faire du bien.
-Pour en savoir plus du Yoga du Rire : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
+Pour en savoir plus du Yoga du Rire : [https://precious-prana.com/ateliers/yoga-du-rire/](/ateliers/yoga-du-rire/)
 
 Attention toutefois, le yoga du rire est déconseillé aux personnes ayant subi une intervention chirurgicale depuis moins de 3 mois.
 

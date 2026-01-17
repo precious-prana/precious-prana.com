@@ -15,4 +15,4 @@ Lors de cet atelier, vous verrez que la voix peut aussi être un outil très eff
 
 Rendez-vous le **mercredi 04 décembre** avec la chanteuse et coach de voix, Claire Aschehoug.
 
-Trouvez [son interview dès à présent en ligne](https://precious-prana.com/interviews/claire-aschehoug/).
+Trouvez [son interview dès à présent en ligne](/interviews/claire-aschehoug/).

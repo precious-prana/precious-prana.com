@@ -17,6 +17,6 @@ Precious Prana est heureux de proposer des ateliers Bain de Gong et Yoga du Rire
 
 > L'Atelier **Yoga du rire** animé par Jacqueline Oud est un vrai moment de joie, de lâcher prise et d'énergie communicative.
 
-**Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](https://precious-prana.com/ateliers/yoga-du-rire/ "https://precious-prana.com/ateliers/yoga-du-rire/")
+**Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](/ateliers/yoga-du-rire/)
 
 ![](../media/pixabay-smile-yellow-plush-toy.jpg)

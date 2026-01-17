@@ -11,7 +11,7 @@ Nous avons le plaisir de vous annoncer la journée bien être au "Trente" (Massy
 
 Une journée d'ateliers, conférences, séances individuelles et stands pour rencontrer des professionnels du bien être pour les entreprises et pour les particuliers.
 
-Cette journée a été co-organisée avec [Precious Prana](https://precious-prana.com), la [Communauté Paris-Saclay](http://www.paris-saclay.com/) et la Couveuse Lab de [BGE PaRIF](http://www.bge-parif.com/sites/bge/accueil.html).
+Cette journée a été co-organisée avec [Precious Prana](/), la [Communauté Paris-Saclay](http://www.paris-saclay.com/) et la Couveuse Lab de [BGE PaRIF](http://www.bge-parif.com/sites/bge/accueil.html).
 
 Venez voir les entrepreneurs, et profitez-en pour rencontrer Precious Prana.
 

@@ -35,6 +35,6 @@ Comme d'habitude, l'atelier sera suivi d'un buffet et d’un moment de partage p
 
 La bonne santé est une affaire à nous tous.
 
-**Pour en savoir plus sur nos ateliers Auto-massage Shiatsu**:  [https://precious-prana.com/ateliers/auto-massage-shiatsu/](https://precious-prana.com/ateliers/auto-massage-shiatsu/ "https://precious-prana.com/ateliers/auto-massage-shiatsu/")
+**Pour en savoir plus sur nos ateliers Auto-massage Shiatsu**:  [https://precious-prana.com/ateliers/auto-massage-shiatsu/](/ateliers/auto-massage-shiatsu/)
 
 ![](../media/Canva_GreenTrees.jpg)

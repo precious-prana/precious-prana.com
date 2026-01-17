@@ -1,5 +1,5 @@
 export const video = (path) => {
-  const fullUrl = `https://precious-prana.com${path}`;
+  const fullUrl = `https://precious-prana-2026.netlify.app${path}`;
   return `
 <video autoplay loop muted playsinline>
   <source src="${fullUrl}" type="video/mp4">

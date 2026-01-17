@@ -52,4 +52,4 @@ Les séances en entreprise sont également possible et très bénéfique pour vo
 
 ![](../media/circle-waves-on-water-bleu.jpg)
 
-**A lire également** : [https://precious-prana.com/blog/2020/04/30/decouvrez-le-bain-de-gong-pour-apprivoiser-et-apprecier-la-guerison-par-le-son/](https://precious-prana.com/blog/2020/04/30/decouvrez-le-bain-de-gong-pour-apprivoiser-et-apprecier-la-guerison-par-le-son/)
+**A lire également** : [https://precious-prana.com/blog/2020/04/30/decouvrez-le-bain-de-gong-pour-apprivoiser-et-apprecier-la-guerison-par-le-son/](/blog/2020/04/30/decouvrez-le-bain-de-gong-pour-apprivoiser-et-apprecier-la-guerison-par-le-son/)
