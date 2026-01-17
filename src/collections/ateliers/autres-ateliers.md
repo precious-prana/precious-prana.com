@@ -29,4 +29,4 @@ Voir l'interview avec notre intervenante  Claire Aschehoug : [https://precious-p
 
 Où trouver notre intervenante Claire Aschehoug : [https://www.oserlavoix.com/](https://www.oserlavoix.com/)
 
-![](media/canva-macroshotoflightbulb-bis.jpg "Photo par Suvan Chowdhury")
+![](/media/canva-macroshotoflightbulb-bis.jpg "Photo par Suvan Chowdhury")

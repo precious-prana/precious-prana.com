@@ -6,7 +6,7 @@ ateliers:
 - bain-de-gong
 lieu: le-rooftop-de-viry
 form_url: ''
-poster: "media/circle-waves-on-water-bleu.jpg"
+poster: "/media/circle-waves-on-water-bleu.jpg"
 moodboard: ''
 
 ---

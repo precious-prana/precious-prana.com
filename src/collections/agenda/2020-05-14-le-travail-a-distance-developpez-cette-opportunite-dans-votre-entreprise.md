@@ -6,7 +6,7 @@ ateliers:
 - accompagnement-au-changement-transformation-en-entreprises
 lieu: atelier-en-direct-live-streaming
 form_url: https://www.weezevent.com/les-outils-pour-travailler-a-distance
-poster: "media/AndreyBukreev-Design Thinking-business-small.jpg"
+poster: "/media/AndreyBukreev-Design Thinking-business-small.jpg"
 moodboard: ''
 
 ---

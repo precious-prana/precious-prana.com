@@ -21,7 +21,7 @@ Note : si besoin, les participant(e)s ont la possibilité de redemander une copi
 
 ## Le moodboard et les retours des participant(e)s
 
-![Moodboard de l'atelier auto-massage shiatsu du 19 février 2019, par Precious Prana](media/2019-02-19-moodboard-shiatsu.jpg){.zoom}
+![Moodboard de l'atelier auto-massage shiatsu du 19 février 2019, par Precious Prana](/media/2019-02-19-moodboard-shiatsu.jpg){.zoom}
 
 **Quelques retours sur ce que les participantes ont retenues des ateliers passés :**
 

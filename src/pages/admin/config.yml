@@ -31,8 +31,6 @@ collections:
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{year}}/{{month}}/{{day}} ▸ {{title}}'
     create: true
-    media_folder: 'media'
-    public_folder: 'media'
     view_groups:
     - label: Year
       field: date
@@ -108,8 +106,6 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     create: true
-    media_folder: 'media'
-    public_folder: 'media'
     fields:
       - label: 'Titre'
         name: 'title'
@@ -146,8 +142,6 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     create: true
-    media_folder: 'media'
-    public_folder: 'media'
     fields:
       - label: 'Titre'
         name: 'title'
@@ -177,8 +171,6 @@ collections:
     slug: '{{slug}}'
     summary: '{{title}}'
     create: true
-    media_folder: 'media'
-    public_folder: 'media'
     editor:
       preview: false
     fields:

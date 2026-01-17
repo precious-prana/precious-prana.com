@@ -11,4 +11,4 @@ date: 2019-10-23
 ---
 Pour arrêter le stress, activer les hormones du bonheur, prendre du recul.
 
-![Two yellow plush toys smiling](media/pixabay-smile-yellow-plush-toy.jpg "Crédits photo: Smile Yellow Plush Toy, Pixabay")
+![Two yellow plush toys smiling](/media/pixabay-smile-yellow-plush-toy.jpg "Crédits photo: Smile Yellow Plush Toy, Pixabay")

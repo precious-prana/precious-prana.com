@@ -7,7 +7,7 @@ ateliers:
 
 ## Comment vous décrivez-vous ?
 
-![Claire Aschehoug, intervenante Oser la Voix](media/claire-aschehoug.jpeg "Claire Aschehoug"){.onehalf}
+![Claire Aschehoug, intervenante Oser la Voix](/media/claire-aschehoug.jpeg "Claire Aschehoug"){.onehalf}
 
 D’une nature joyeuse et positive, je m’épanouis dans les échanges et le partage avec les autres.
 
@@ -19,7 +19,7 @@ J’accompagne les particuliers ou les entreprises pour une expression orale per
 
 Le chant a toujours été pour moi une source de plaisir. Pourtant ce n’est qu’à 25 ans que je démarrai sérieusement ma formation musicale et vocale. En parallèle, le chant choral me permit de trouver une place dans la société, à un moment où ayant choisi d’élever mes 3 enfants, je n’avais plus d’activité professionnelle. Cette expérience de recherche d’harmonie à travers le chant et la musique m’apprit beaucoup sur moi et mes semblables, et sur le plaisir de partager avec un public le fruit d’un travail collectif.
 
-![Label Voix](media/logo-label-voix.png){.onethird}
+![Label Voix](/media/logo-label-voix.png){.onethird}
 Après 10 ans en agence de communication, j’ai voulu associer ma passion pour le chant et mon expérience de formatrice. Pour agrandir mon champ d’action, j’ai choisi de me former à 52 ans au métier de coach professionnel.
 
 ## Quelle est votre routine bien-être ou beauté ?

@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: coffice-corner
 form_url: ''
-poster: "media/pixabay-smile-yellow-plush-toy.jpg"
+poster: "/media/pixabay-smile-yellow-plush-toy.jpg"
 moodboard: ''
 
 ---

@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: ''
-poster: "media/yogadurire-rireenligne-calendrierdec2020.jpg"
+poster: "/media/yogadurire-rireenligne-calendrierdec2020.jpg"
 moodboard: ''
 
 ---

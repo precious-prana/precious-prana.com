@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: https://forms.gle/Cq1xVSjzrXG1QMWT7
-poster: "media/Yoga-du-Rire-mai 2020FB.png"
+poster: "/media/Yoga-du-Rire-mai 2020FB.png"
 moodboard: ''
 
 ---
@@ -39,4 +39,4 @@ Prix : 10€ par adulte participant, grauit pour les enfants, à relger avant la
 
 **Et un aperçu d'une séance en ligne:**
 
-![](media/collage-yoga-du-rire-medium.png)
+![](/media/collage-yoga-du-rire-medium.png)

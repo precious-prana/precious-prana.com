@@ -2,7 +2,7 @@
 title: 'Atelier Savourer les bons moments - séance d''automne '
 form_url: https://bit.ly/savourerlesbonsmoments-automne
 show_homepage: true
-poster: "media/2019-10-15-atelier-savourer-les-bons-moments.jpg"
+poster: "/media/2019-10-15-atelier-savourer-les-bons-moments.jpg"
 moodboard: ''
 ateliers:
 - savourer-les-bons-moments
@@ -27,4 +27,4 @@ L’atelier sera animé par Jacqueline Oud, Fondatrice de Precious Prana.
 Envie de revoir l’atelier « Savourer les bons moments » de juillet ? Découvrez [le moodboard de l'atelier et les retours des participantes](/evenements/2019/07/02/atelier-savourer-les-bons-moments/#le-moodboard-et-les-retours-des-participantes).
 :::
 
-![](media/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)
+![](/media/photography-of-woman-surrounded-by-sunflowers-andre-furtado.jpg)

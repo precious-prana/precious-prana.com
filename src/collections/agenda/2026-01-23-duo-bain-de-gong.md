@@ -5,7 +5,7 @@ title: 'Duo Bain de Gong à Draveil'
 lieu: cercle-de-mainville
 ateliers:
 - bain-de-gong
-poster: "media/2026-01-23-bain-de-gong.png"
+poster: "/media/2026-01-23-bain-de-gong.png"
 moodboard: ''
 ---
 

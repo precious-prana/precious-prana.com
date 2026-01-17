@@ -48,11 +48,11 @@ On peut donc lister les bienfaits suivants :
 
 {% gallery %}
 
-![](media/Yoga-du-rire-Rooftop-Feb-2020-4.jpg){.onehalf}
+![](/media/Yoga-du-rire-Rooftop-Feb-2020-4.jpg){.onehalf}
 
-![](media/Yoga-du-rire-Rooftop-Feb-2020-1.jpg){.onehalf}
+![](/media/Yoga-du-rire-Rooftop-Feb-2020-1.jpg){.onehalf}
 
-![](media/Ho-ho-hahaha6-enfants-floute.png)
+![](/media/Ho-ho-hahaha6-enfants-floute.png)
 
 {% endgallery %}
 
@@ -62,7 +62,7 @@ https://www.youtube.com/watch?v=CTE2uGTJrRw
 
 ## Pour plus d’informations
 
-![Yoga du Rire](media/yoga-du-rire-logo-officiel.jpg){.onethird}
+![Yoga du Rire](/media/yoga-du-rire-logo-officiel.jpg){.onethird}
 
 L'atelier est animé par Jacqueline Oud, fondatrice Precious Prana et animatrice agréée formée par l’[Institut Français du Yoga du Rire](https://www.formation-yogadurire.fr/).
 

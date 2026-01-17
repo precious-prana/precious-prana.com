@@ -1,6 +1,6 @@
 ---
 title: Soirée spéciale « Solstice d'hiver » lundi 21 décembre 2020
-poster: "media/solsticedhiver2020.jpg"
+poster: "/media/solsticedhiver2020.jpg"
 form_url: https://forms.gle/cdx8WCR8EQgBjPm68
 show_homepage: true
 lieu: atelier-en-direct-live-streaming
@@ -15,4 +15,4 @@ Lors de l’atelier, nous célébrons le passage de l’ombre à la lumière. Un
 
 C’est un moment fort en symbolique et de retrouvailles avec ce qu’on aime et qui facilite la fin de cette année si particulière.
 
-![Hands covering a candle](media/hands-covering-a-candle-janwardenbach.jpg)
+![Hands covering a candle](/media/hands-covering-a-candle-janwardenbach.jpg)

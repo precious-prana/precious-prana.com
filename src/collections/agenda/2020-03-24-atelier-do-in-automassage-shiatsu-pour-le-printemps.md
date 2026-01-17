@@ -6,7 +6,7 @@ ateliers:
 - auto-massage-shiatsu
 lieu: espace-evolution
 form_url: https://forms.gle/UudionWkYKMz6oLC8
-poster: "media/REPORT-DoIn-printemps.png"
+poster: "/media/REPORT-DoIn-printemps.png"
 moodboard: ''
 
 ---
@@ -37,4 +37,4 @@ La bonne santé est une affaire à nous tous.
 
 **Pour en savoir plus sur nos ateliers Auto-massage Shiatsu**:  [https://precious-prana.com/ateliers/auto-massage-shiatsu/](/ateliers/auto-massage-shiatsu/)
 
-![](media/Canva_GreenTrees.jpg)
+![](/media/Canva_GreenTrees.jpg)

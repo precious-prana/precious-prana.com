@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: https://forms.gle/2weLAUk9YhvLPG1q7
-poster: "media/YogaduRire.jpg"
+poster: "/media/YogaduRire.jpg"
 moodboard: ''
 
 ---
@@ -39,4 +39,4 @@ Prix : 10€ participation, à relger avant la séance. Vous recevrez le lien ap
 
 **Et un aperçu d'une séance en ligne:**
 
-![](media/collage-yoga-du-rire-medium.png)
+![](/media/collage-yoga-du-rire-medium.png)

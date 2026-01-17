@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: atelier-en-direct-live-streaming
 form_url: http://bit.ly/YogaduRire14novembre
-poster: "media/fb-yoga-du-rire-enligne-14-novembre.png"
+poster: "/media/fb-yoga-du-rire-enligne-14-novembre.png"
 moodboard: ''
 
 ---

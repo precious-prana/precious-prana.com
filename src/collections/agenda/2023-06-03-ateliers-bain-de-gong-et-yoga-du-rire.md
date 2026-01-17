@@ -5,7 +5,7 @@ title: 'Ateliers Bain de Gong et Yoga du Rire à Montgeron'
 ateliers:
 - bain-de-gong
 - yoga-du-rire
-poster: "media/2023-06-03-bain-de-gong-et-yoga-du-rire.jpg"
+poster: "/media/2023-06-03-bain-de-gong-et-yoga-du-rire.jpg"
 moodboard: ''
 
 ---
@@ -19,4 +19,4 @@ Precious Prana est heureux de proposer des ateliers Bain de Gong et Yoga du Rire
 
 **Pour trouver plus d'informations sur le Yoga du Rire et ses bienfaits** : [https://precious-prana.com/ateliers/yoga-du-rire/](/ateliers/yoga-du-rire/)
 
-![](media/pixabay-smile-yellow-plush-toy.jpg)
+![](/media/pixabay-smile-yellow-plush-toy.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Atelier auto-massage shiatsu
-poster: "media/2019-06-18-atelier-auto-massage-shiatsu.png"
+poster: "/media/2019-06-18-atelier-auto-massage-shiatsu.png"
 form_url: http://bit.ly/precious-prana-auto-massage-juin
 show_homepage: true
 ateliers:
@@ -32,4 +32,4 @@ Envie de savoir comment s’est passé l’atelier précédent d’auto-massage 
 >
 > <cite>Proverbe breton, par François Loux, "Le corps dans la société traditionnelle", Berger-Levrault, "Espaces des Hommes"</cite>
 
-![](media/canva-red-and-yellow-flower-par-veeterzy-recadre.jpg)
+![](/media/canva-red-and-yellow-flower-par-veeterzy-recadre.jpg)

@@ -6,7 +6,7 @@ ateliers:
 - yoga-du-rire
 lieu: radio-cocottes
 form_url: https://forms.gle/sXBW5V8Y36v93Z3u7
-poster: "media/2020-03-28-yoga-du-rire.jpg"
+poster: "/media/2020-03-28-yoga-du-rire.jpg"
 moodboard: ''
 
 ---
@@ -28,4 +28,4 @@ On le constate à chaque fois maintenant, que vous ayez des appréhensions ou no
 2. Adaptation de la séance pour éviter les contacts avec les mains entre personnes
 3. Ajustement des exercices de rire
 
-![](media/pixabay-smile-yellow-plush-toy.jpg)
+![](/media/pixabay-smile-yellow-plush-toy.jpg)

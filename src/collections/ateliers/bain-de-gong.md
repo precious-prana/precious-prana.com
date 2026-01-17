@@ -50,6 +50,6 @@ Les séances en entreprise sont également possible et très bénéfique pour vo
 
 > C'est apaisant, et je sens comme un flottement. Je suis très analytique et j'avais peur du niveau sonor et la gêne. Mais c'est justement quand c'est plus fort que j'apprécie car mon mental lâche. (N.C)
 
-![](media/circle-waves-on-water-bleu.jpg)
+![](/media/circle-waves-on-water-bleu.jpg)
 
 **A lire également** : [https://precious-prana.com/blog/2020/04/30/decouvrez-le-bain-de-gong-pour-apprivoiser-et-apprecier-la-guerison-par-le-son/](/blog/2020/04/30/decouvrez-le-bain-de-gong-pour-apprivoiser-et-apprecier-la-guerison-par-le-son/)
