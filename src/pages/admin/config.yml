@@ -12,7 +12,7 @@ logo:
 locale: 'fr'
 
 media_folder: 'src/static/media'
-public_folder: 'media'
+public_folder: '/media'
 publish_mode: simple
 
 show_preview_links: false
@@ -27,6 +27,8 @@ collections:
     label: 'Agenda'
     label_singular: 'agenda'
     folder: 'src/collections/agenda'
+    media_folder: 'src/static/media'
+    public_folder: '/media'
     path: '{{slug}}'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     summary: '{{year}}/{{month}}/{{day}} ▸ {{title}}'
