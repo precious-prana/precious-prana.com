@@ -13,7 +13,9 @@ layout: null
   <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
     <script>
-    CMS.registerPreviewStyle("{% getBundleFileUrl "css", "critical" %}");
+    CMS.registerPreviewStyle("{% getBundleFileUrl "css", "preview" %}");
     </script>
   </body>
 </html>
+
+{%- css "preview" %}{% renderFile "src/assets/sass/preview.scss" %}{% endcss %}

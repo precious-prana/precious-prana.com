@@ -1,0 +1,372 @@
+@use "sass:color";
+@use "variables" as *;
+@use "fonts" as *;
+
+// Box sizing:
+// http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+html {
+  box-sizing: border-box;
+  text-size-adjust: 100%;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 1em 3em;
+
+  background-color: #fff;
+  color: #222;
+
+  font-family: roboto, sans-serif;
+  font-weight: 300;
+  line-height: 1.5;
+  font-size: calc(0.9rem + 1vw);
+  @media screen and (min-width: 55rem) {
+    font-size: 1.45rem; //calc(0.9rem + 55 / 100 * 1 * 1rem);
+  }
+}
+
+strong {
+  font-weight: bold;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: calc(0.75em + 2vw) 0 0.75rem 0;
+
+  font-family: dosis, sans-serif;
+  font-weight: 300;
+  color: $brand-green;
+
+  line-height: 1.2;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a:link,
+a:visited {
+  color: $brand-blue;
+  text-decoration: underline solid $brand-blue-light;
+
+  footer & {
+    color: #fff;
+  }
+
+  &.facebook {
+    color: $facebook-color;
+    text-decoration: underline solid color.mix($facebook-color, $page-background, 60%);
+  }
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: $brand-blue;
+  text-decoration: underline solid $brand-blue;
+
+  &.facebook {
+    color: $facebook-color;
+    text-decoration: underline solid $facebook-color;
+  }
+}
+
+a[href^="mailto:"]::before {
+  content: "✉️ ";
+}
+
+table {
+  border-collapse: collapse;
+  font-feature-settings: "tnum" 1;
+
+  @supports (font-variant-numeric: tabular-nums) {
+    font-feature-settings: normal;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+thead {
+  background-color: $brand-yellow-light;
+
+  th {
+    vertical-align: bottom;
+  }
+}
+
+th,
+td {
+  padding: 0.3em 0.5em;
+  border: 1px solid $brand-yellow;
+  vertical-align: top;
+}
+
+figure {
+  margin: 1em 0;
+
+  img {
+    border: 2px solid #ccc;
+  }
+
+  figcaption {
+    text-align: center;
+    line-height: 1;
+    font-size: 0.9em;
+
+    p {
+      margin: 0.2em 0;
+    }
+
+    .zoom {
+      font-size: 0.9em;
+    }
+  }
+}
+
+.poster,
+.onethird {
+  width: 33%;
+}
+
+.onehalf {
+  width: 100%;
+  margin: 1em auto;
+
+  @media screen and (min-width: 40rem) {
+    width: 50%;
+    float: right;
+    margin: 1em 0 1em 1em;
+  }
+}
+
+.twothirds {
+  width: 100%;
+  margin: 1em auto;
+
+  @media screen and (min-width: 40rem) {
+    width: 66%;
+  }
+}
+
+.gallery {
+  width: 100%;
+  margin: 1em -1em 1em 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+  p {
+    display: contents;
+  }
+
+  img {
+    margin: 1em 1em 0 0;
+  }
+
+  .onehalf {
+    width: calc(50% - 1em);
+  }
+
+  .onethird {
+    width: calc(33% - 1em);
+  }
+}
+
+.right {
+  float: right;
+  margin: 1em 0 1em 1em;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+blockquote {
+  margin: 2em 0;
+  position: relative;
+  overflow: hidden;
+
+  padding: 1vw 5vw;
+
+  color: #333;
+  background: linear-gradient(
+    335deg,
+    color.adjust($brand-green, $lightness: 40%) 0%,
+    color.adjust($brand-green-light, $lightness: 40%) 100%
+  );
+  border-left: 1vw solid $brand-green;
+
+  font-style: italic;
+
+  &::before {
+    position: absolute;
+    left: 0vw;
+    top: 0;
+
+    content: "\201C";
+
+    color: $brand-green;
+
+    font-size: 10vw;
+    line-height: 1;
+  }
+
+  p:first-child {
+    margin-top: 1vw;
+  }
+
+  p:last-child {
+    margin-bottom: 1vw;
+  }
+
+  cite {
+    font-size: 0.9em;
+    color: #696;
+  }
+}
+
+// ------------------------------------------------------------------------
+// CTA: Call To Action link
+// ------------------------------------------------------------------------
+
+.cta {
+  text-align: center;
+  margin: 1em 0;
+  padding: 1em 0;
+
+  a:link,
+  a:visited {
+    display: inline-block;
+    padding: 0.3em 1em;
+    background: linear-gradient(
+      335deg,
+      $brand-green 0%,
+      $brand-green-light 100%
+    );
+    color: #fff;
+    text-decoration: none;
+    transition: 0.1s ease-in-out;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.22);
+    text-shadow: $brand-green 1px 1px 3px;
+
+    &:hover {
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.19), 0 3px 3px rgba(0, 0, 0, 0.23);
+      transform: scale(0.95);
+    }
+  }
+}
+
+.hint {
+  display: inline-block;
+  font-size: .9em;
+  margin-left: .3em;
+  padding: 0 0.3em;
+  border-radius: 0.2em;
+  background-color: $brand-orange;
+  color: #fff;
+}
+
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+// ------------------------------------------------------------------------
+// Mardown-it containers
+//
+// ::: note
+// content
+// :::
+// ------------------------------------------------------------------------
+
+.note {
+  clear: both;
+  margin: 2em 0;
+  padding: 0 1em;
+  color: #333;
+  background: linear-gradient(
+    335deg,
+    color.adjust($brand-green, $lightness: 50%) 0%,
+    color.adjust($brand-green-light, $lightness: 50%) 100%
+  );
+  border: 2px solid $brand-green;
+}
+
+// ------------------------------------------------------------------------
+// Footer
+// ------------------------------------------------------------------------
+
+footer {
+  margin: 5em 0 0;
+  padding: 1em 0;
+  background-color: $footer-background;
+  color: $footer-text;
+  border-top: 2px solid $footer-border;
+  font-size: 0.8em;
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .facebook-page {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 1em;
+
+    .icon-link {
+      display: inline-block;
+      margin: 0 0.5em 0 0;
+      width: 7rem;
+      height: auto;
+      min-width: 30px;
+      max-width: 40px;
+      text-decoration: none;
+    }
+
+    svg {
+      width: 100%;
+      height: auto;
+    }
+
+    p {
+      margin: 0;
+      flex-grow: 1;
+      line-height: 1.2;
+    }
+  }
+
+  .legal {
+    white-space: nowrap;
+  }
+}
+
+.intro, .content > p:first-of-type {
+  font-size: 1.1em;
+  color: $brand-green;
+}
