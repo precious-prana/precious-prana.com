@@ -378,10 +378,10 @@ footer {
 // ------------------------------------------------------------------------
 
 [class*="-PreviewContainer"] > div:not(:last-child):not(:has(h1)) {
-  background-color: #ddd;
+  background-color: #eee;
 }
 
 [class*="-WidgetPreviewContainer"]:not(:has(h1)) {
-  padding-block: .5em;
+  padding: .2em .5em;
   border-bottom: 1px solid #fff;
 }
