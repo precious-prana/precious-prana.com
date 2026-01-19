@@ -1,5 +1,6 @@
 ---
 title: "La « Positivité toxique » versus « Validation »"
+date: 2019-11-18
 ---
 
 Tout encouragement ne peut pas toujours être dans la « positive attitude », cela risque d’être toxique. Et cela même dans les conseils que nous pourrons donner à nos proches ou moins proches lorsque ceux-ci traversent des moments difficiles. Car bien que les conseils « positifs » puissent venir d’une bonne intention et sembler inoffensifs, ils peuvent avoir un effet plus profond et faire des dégâts. Une personne abattue n’a pas besoin de se sentir battue en plus.
