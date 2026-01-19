@@ -381,3 +381,7 @@ footer {
   padding-block: .5em;
   border-bottom: 1px solid #ddd;
 }
+
+[class*="-PreviewContainer"] > div:not(:last-child) {
+  background-color: #f00;
+}
