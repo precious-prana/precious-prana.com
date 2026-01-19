@@ -255,7 +255,7 @@ collections:
         widget: 'string'
         tagname: 'h1'
       - label: 'Ordre dans la navigation'
-        name: 'navorder'
+        name: 'nav.order'
         widget: 'number'
         default: 0
         hint: 'Ordre dans la navigation, 0 pour ne pas l‘afficher'

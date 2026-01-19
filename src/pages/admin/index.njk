@@ -18,29 +18,48 @@ layout: null
     var PreciousPranaPreview = createClass({
       render: function() {
         var entry = this.props.entry;
-        console.dir(entry.getIn(['data']));
+        const FrontMatterFields = [];
+        Array.from(entry.getIn(['data'])).map(v => {
+          if (['title', 'body'].includes(v[0])) {
+            return;
+          }
+
+          const entryValue = entry.getIn(['data', v[0]]);
+          let entryPreview = entryValue;
+
+          if (typeof entryValue === 'boolean') {
+            entryPreview = entryValue ? 'oui' : 'non';
+          }
+          if (typeof entryValue === 'string') {
+            if (entryValue.startsWith('https://')) {
+              entryPreview = h('a', { href: entryValue, target: "_blank" }, entryValue);
+            }
+            if (entryValue.startsWith('/media/')) {
+              entryPreview = h('img', { src: entryValue, width: 300, alt: v[0]});
+            }
+          }
+          if (typeof entryValue === 'object' && Array.from(entryValue).length > 1) {
+            entryPreview = h('ul', {}, [...Array.from(entryValue).map(i => h('li', {}, i))]);
+          }
+          FrontMatterFields.push(h('tr', {},
+            h('th', {}, v[0]),
+            h('td', {}, entryPreview)
+          ),);
+        });
         return h('div', {},
           h('h1', {}, entry.getIn(['data', 'title'])),
-          h('table', {},
-            h('tr', {},
-              h('th', {}, 'Date'),
-              h('td', {}, entry.getIn(['data', 'date']))
-            ),
-            h('tr', {},
-              h('th', {}, 'Ateliers'),
-              h('td', {}, entry.getIn(['data', 'ateliers']).join(', '))
-            ),
-            h('tr', {},
-              h('th', {}, 'Lieu'),
-              h('td', {}, entry.getIn(['data', 'lieu']))
-            )
-          ),
+          h('table', {}, [...FrontMatterFields]),
           h('div', {"className": "text"}, this.props.widgetFor('body'))
         );
       }
     });
 
     CMS.registerPreviewTemplate("agenda", PreciousPranaPreview);
+    CMS.registerPreviewTemplate("blog", PreciousPranaPreview);
+    CMS.registerPreviewTemplate("interviews", PreciousPranaPreview);
+    CMS.registerPreviewTemplate("ateliers", PreciousPranaPreview);
+    CMS.registerPreviewTemplate("lieux", PreciousPranaPreview);
+    CMS.registerPreviewTemplate("pages", PreciousPranaPreview);
     </script>
   </body>
 </html>
