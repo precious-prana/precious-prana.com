@@ -34,7 +34,6 @@ collections:
     view_groups:
     - label: Year
       field: date
-      # groups items based on the value matched by the pattern
       pattern: \d{4}
     - label: Drafts
       field: draft
@@ -98,6 +97,47 @@ collections:
         name: 'body'
         widget: 'markdown'
         hint: 'Description de l‘atelier'
+  - name: 'blog'
+    label: 'Blog'
+    label_singular: 'blog'
+    folder: 'src/collections/blog'
+    path: '{{slug}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    summary: '{{year}}/{{month}}/{{day}} ▸ {{title}}'
+    create: true
+    view_groups:
+    - label: Year
+      field: date
+      pattern: \d{4}
+    - label: Drafts
+      field: draft
+    fields:
+      - label: 'Titre'
+        name: 'title'
+        widget: 'string'
+        tagname: 'h1'
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+        format: 'YYYY-MM-DD'
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        default: '{{now}}'
+      - label: 'Brouillon'
+        name: 'draft'
+        widget: 'boolean'
+        default: true
+        required: false
+        hint: 'Ne sera pas affiché sur le site tant que coché'
+      - label: 'Poster'
+        name: 'poster'
+        widget: 'image'
+        media_folder: 'media'
+        required: false
+      - label: 'Contenu'
+        name: 'body'
+        widget: 'markdown'
+        hint: 'Contenu de l‘article de blog'
   - name: 'interviews'
     label: 'Interviews'
     label_singular: 'interview'
