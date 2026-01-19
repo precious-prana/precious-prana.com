@@ -18,7 +18,7 @@ layout: null
     var PreciousPranaPreview = createClass({
       render: function() {
         var entry = this.props.entry;
-        console.dir(entry);
+        console.dir(entry.getIn(['data']));
         return h('div', {},
           h('h1', {}, entry.getIn(['data', 'title'])),
           h('table', {},
