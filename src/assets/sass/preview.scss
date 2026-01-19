@@ -377,7 +377,7 @@ footer {
 // Specific for the preview style in Decap CMS
 // ------------------------------------------------------------------------
 
-[class*="-WidgetPreviewContainer"] {
-  margin-block: 1em;
-  border-bottom: 1px solid $brand-green-light;
+[class*="-WidgetPreviewContainer"]:not(:has(h1)) {
+  padding-block: .5em;
+  border-bottom: 1px solid #eee;
 }
