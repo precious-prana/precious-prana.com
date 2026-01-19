@@ -20,13 +20,19 @@ layout: null
         var entry = this.props.entry;
         return h('div', {},
           h('h1', {}, entry.getIn(['data', 'title'])),
-          h('dl', {},
-            h('dt', {}, 'Date'),
-            h('dd', {}, entry.getIn(['data', 'date'])),
-            h('dt', {}, 'Ateliers'),
-            h('dd', {}, entry.getIn(['data', 'ateliers']).join(', ')),
-            h('dt', {}, 'Lieu'),
-            h('dd', {}, entry.getIn(['data', 'lieu'])),
+          h('table', {},
+            h('tr', {},
+              h('th', {}, 'Date'),
+              h('td', {}, entry.getIn(['data', 'date']))
+            ),
+            h('tr', {},
+              h('th', {}, 'Ateliers'),
+              h('td', {}, entry.getIn(['data', 'ateliers']).join(', '))
+            ),
+            h('tr', {},
+              h('th', {}, 'Lieu'),
+              h('td', {}, entry.getIn(['data', 'lieu']))
+            )
           ),
           h('div', {"className": "text"}, this.props.widgetFor('body'))
         );
