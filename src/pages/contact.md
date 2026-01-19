@@ -5,7 +5,6 @@ tags:
   - navigation
 nav:
   order: 6
-nav.order: 6
 ---
 
 # Contact
