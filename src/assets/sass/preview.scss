@@ -389,4 +389,12 @@ footer {
     border: 1px solid $brand-green;
   }
 
+  th, td {
+    border: 1px solid #ccc;
+    padding: .1em .2em;
+  }
+
+  th {
+    text-align: left;
+  }
 }
