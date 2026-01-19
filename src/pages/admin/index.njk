@@ -24,7 +24,7 @@ layout: null
             h('dt', {}, 'Date'),
             h('dd', {}, entry.getIn(['data', 'date'])),
             h('dt', {}, 'Ateliers'),
-            h('dd', {}, entry.getIn(['data', 'ateliers'])),
+            h('dd', {}, entry.getIn(['data', 'ateliers']).join(', ')),
             h('dt', {}, 'Lieu'),
             h('dd', {}, entry.getIn(['data', 'lieu'])),
           ),
