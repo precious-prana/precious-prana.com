@@ -15,9 +15,10 @@ layout: null
     <script>
     CMS.registerPreviewStyle("{% getBundleFileUrl "css", "preview" %}");
 
-    var AgendaPreview = createClass({
+    var PreciousPranaPreview = createClass({
       render: function() {
         var entry = this.props.entry;
+        console.dir(entry);
         return h('div', {},
           h('h1', {}, entry.getIn(['data', 'title'])),
           h('table', {},
@@ -39,7 +40,7 @@ layout: null
       }
     });
 
-    CMS.registerPreviewTemplate("agenda", AgendaPreview);
+    CMS.registerPreviewTemplate("agenda", PreciousPranaPreview);
     </script>
   </body>
 </html>
