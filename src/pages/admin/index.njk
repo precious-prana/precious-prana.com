@@ -20,7 +20,14 @@ layout: null
         var entry = this.props.entry;
         return h('div', {},
           h('h1', {}, entry.getIn(['data', 'title'])),
-          h('h2', {}, `${entry.getIn(['data', 'date'])} / ${entry.getIn(['data', 'lieu'])}`),
+          h('dl', {},
+            h('dt', {}, 'Date'),
+            h('dd', {}, entry.getIn(['data', 'date'])),
+            h('dt', {}, 'Ateliers'),
+            h('dd', {}, entry.getIn(['data', 'ateliers'])),
+            h('dt', {}, 'Lieu'),
+            h('dd', {}, entry.getIn(['data', 'lieu'])),
+          ),
           h('div', {"className": "text"}, this.props.widgetFor('body'))
         );
       }
