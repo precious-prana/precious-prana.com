@@ -391,12 +391,17 @@ footer {
 }
 
 .frame-content {
+  table {
+    margin: 1em 0;
+    font-size: 0.8em;
+  }
+
   th, td {
     border: 1px solid #ccc;
     padding: .1em .2em;
   }
 
   th {
-    text-align: left;
+    text-align: right;
   }
 }
