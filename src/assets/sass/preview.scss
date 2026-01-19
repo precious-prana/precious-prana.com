@@ -50,10 +50,8 @@ h6 {
 }
 
 img {
-  max-width: 50%;
+  max-width: 100%;
   height: auto;
-  margin: 1em auto;
-  border: 1px solid $brand-green;
 }
 
 p {
@@ -384,4 +382,11 @@ footer {
 [class*="-WidgetPreviewContainer"]:not(:has(h1)) {
   padding: .2em .5em;
   border-bottom: 1px solid #fff;
+
+  img {
+    max-width: 50%;
+    height: auto;
+    border: 1px solid $brand-green;
+  }
+
 }
