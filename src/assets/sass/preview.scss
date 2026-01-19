@@ -372,3 +372,12 @@ footer {
   font-size: 1.1em;
   color: $brand-green;
 }
+
+// ------------------------------------------------------------------------
+// Specific for the preview style in Decap CMS
+// ------------------------------------------------------------------------
+
+[class$="-WidgetPreviewContainer"] {
+  margin-block: 1em;
+  border-bottom: 1px solid $brand-green-light;
+}
