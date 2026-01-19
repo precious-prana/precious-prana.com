@@ -377,11 +377,11 @@ footer {
 // Specific for the preview style in Decap CMS
 // ------------------------------------------------------------------------
 
-[class*="-WidgetPreviewContainer"]:not(:has(h1)) {
-  padding-block: .5em;
-  border-bottom: 1px solid #ddd;
+[class*="-PreviewContainer"] > div:not(:last-child):not(:has(h1)) {
+  background-color: #ddd;
 }
 
-[class*="-PreviewContainer"] > div:not(:last-child) {
-  background-color: #f00;
+[class*="-WidgetPreviewContainer"]:not(:has(h1)) {
+  padding-block: .5em;
+  border-bottom: 1px solid #fff;
 }
