@@ -68,12 +68,10 @@ collections:
       - label: 'Poster'
         name: 'poster'
         widget: 'image'
-        media_folder: 'media'
         required: false
       - label: 'Moodboard'
         name: 'moodboard'
         widget: 'image'
-        media_folder: 'media'
         required: false
       - label: 'Ateliers'
         name: 'ateliers'
@@ -132,7 +130,6 @@ collections:
       - label: 'Poster'
         name: 'poster'
         widget: 'image'
-        media_folder: 'media'
         required: false
       - label: 'Contenu'
         name: 'body'
@@ -262,7 +259,6 @@ collections:
       - label: 'Image de couverture'
         name: 'image'
         widget: 'image'
-        media_folder: ''
         required: false
       - label: 'Texte'
         name: 'body'
