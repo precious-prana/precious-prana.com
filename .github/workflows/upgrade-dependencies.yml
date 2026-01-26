@@ -12,9 +12,6 @@ concurrency:
 
 jobs:
   upgrade-dependencies:
-    permissions:
-      contents: write
-      pull-requests: write
     uses: nhoizey/upgrade-dependencies/.github/workflows/upgrade-dependencies.yml@main
     with:
       token: ${{ secrets.GH_TOKEN }}
