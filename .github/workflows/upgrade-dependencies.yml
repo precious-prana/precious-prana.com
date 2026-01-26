@@ -16,4 +16,5 @@ jobs:
       contents: write
       pull-requests: write
     uses: nhoizey/upgrade-dependencies/.github/workflows/upgrade-dependencies.yml@main
-    secrets: inherit
+    with:
+      token: ${{ secrets.GH_TOKEN }}
